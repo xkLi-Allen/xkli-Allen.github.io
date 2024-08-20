@@ -17,42 +17,235 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Currently, Xunkai Li is a second year Ph.D. student of [School of Computer Science](https://cs.bit.edu.cn) in [Beijing Institute of Technology](https://bit.edu.cn) supervised by Prof. [Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
+Prior to that, he received his B.Eng. degree in computer science department from [Shandong University](http://www.sdu.edu.cn) in June 2022. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Since 2021, he worked with Prof. [Wentao Zhang](https://zwt233.github.io) as a research intern at the Data-centric Machine Learning (DCML) group in the [Center of Machine Learning Research](https://cmlr.pku.edu.cn/People/Faculty/5ce37bd8e3244030ae3f34e01d23e761.htm) at [Peking University (PKU)](https://www.pku.edu.cn/). 
+As an active member of the team, Xunkai is the contributor of scalable graph learning system project [SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social).
 
+My research interest includes **Data-centric Machine Learning** and **General Graph Learning**. 
+I have published some papers <a href='https://scholar.google.com/citations?user=VfEdG18AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxkli-allen%2xkli-allen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international DB/DM/AI conferences such as VLDB, ICDE, WWW, AAAI, IJCAI. 
+
+**Email**: cs.xunkai.li@gmail.com
+
+**Wechat (微信)**: 18045124943
+
+🌟 🌟 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat ：）
+
+
+Data-centric Machine Learning: In recent years, AI development has faced challenges, as many leading LLMs still rely on the Transformer architecture. As a result, performance gains have shifted from models to data-focused strategies, particularly in <font color=red>LLM-based Data Optimization</font>.
+
+  - Data Quality: <font color=orange>Imbalance</font>, <font color=orange>Noise</font>, and <font color=orange>Out-Of-Distribution</font>.
+
+  - Data Quantity: <font color=orange>Annotation</font> and <font color=orange>Augmentation</font>.
+
+  - Data Efficiency: <font color=orange>Distillation</font>, <font color=orange>Compression</font>, and <font color=orange>Selection</font>
+  
+  - Data Privacy: <font color=orange>Forgetting</font> and <font color=orange>Differential Privacy</font>. 
+
+General Graph Learning: Exploring graph learning in complex scenarios is crucial due to the limitations of traditional methods in addressing modern graphs and practical needs. My goal is to advance general graph learning through improved data representation and optimization objectives.
+
+  - High-order Graphs: <font color=orange>Directed</font>, <font color=orange>Signed</font>, <font color=orange>Hypergraphs</font>, <font color=orange>Heterophily</font> <font color=orange>Temporal</font>, and <font color=red>LLM-based Rich Text Attribute Graph</font>.
+
+  - Learning Paradigms: <font color=orange>Federated</font>, <font color=orange>Graph Structure Learning</font>, <font color=orange>Knowledge Distillation</font>, <font color=orange>Scalability</font>, and <font color=orange>Unlearning</font>, and <font color=red>LLM-based Collaboration</font>.
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+
+* **2024-08**: One paper is accepted by ***VLDB 2025***.
+* **2024-04**: One paper is accepted by ***IJCAI 2024***.
+* **2024-03**: One paper is accepted by ***ICDE 2024***.
+* **2024-02**: One paper is accepted by ***VLDB 2024***.
+* **2024-01**: One paper is accepted by ***WWW 2024***.
+* **2023-12**: One paper is accepted by ***AAAI 2024***.
+* **2023-10**: One paper is accepted by ***ICDE 2024***.
+* **2023-08**: One paper is accepted by ***VLDB 2023***.
+
+
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+$^{#}$ indicates equal contribution
+
+#### Conference and Journal Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/gec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+🎯<img src='https://img.shields.io/badge/VLDB2025-orange' />[Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://xkli-allen.github.io/), **[[Code](https://xkli-allen.github.io/)]**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Gouren Wang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- in Proc. of International Conference on Very Large Data Bases (VLDB), 2025, CCF-A.
+
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/adafgl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+🎯<img src='https://img.shields.io/badge/ICDE2024-orange' />[AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity](https://arxiv.org/abs/2401.11750), **[[Code](https://github.com/xkLi-Allen/AdaFGL)]**
+
+**Xunkai Li**, Zhenyu Wu,  Wentao Zhang, Henan Sun, Rong-Hua Li, Gouren Wang
+
+- in Proc. of IEEE International Conference on Data Engineering (ICDE), 2024, CCF-A.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/megu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/AAAI2024-orange' />[Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760), **[[Code](https://github.com/xkLi-Allen/MEGU)]**
+
+**Xunkai Li**$^{#}$, Yulin Zhao$^{#}$, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Gouren Wang
+
+- in Proc. of Association for the Advancement of Artificial Intelligence (AAAI), 2024, CCF-A. (Oral Presentation)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/atp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/WWW2024-orange' />[Rethinking Node-wise Propagation for Large-scale Graph Learning](https://arxiv.org/abs/2402.06128), **[[Code](https://github.com/xkLi-Allen/ATP)]**
+
+**Xunkai Li**, Jingyuan Ma, Zhengyu Wu, Daohan Su, Wentao Zhang, Rong-Hua Li, Guoren Wang
+
+- in Proc. of The Web Conference (WWW), 2024, CCF-A. (Oral Presentation)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2024</div><img src='images/lightdic.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/VLDB2024-orange' />[LightDiC: A Simple yet Effective Approach for Large-scale Digraph Representation Learning](https://arxiv.org/abs/2401.11772), **[[Code](https://github.com/xkLi-Allen/LightDiC)]**
+
+**Xunkai Li**, Meihao Liao, Zhengyu Wu, Daohan Su, Wentao Zhang, Rong-Hua Li, Guoren Wang
+
+- in Proc. of International Conference on Very Large Data Bases (VLDB), 2024, CCF-A.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/adpa.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/ICDE2024-orange' />[Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification](https://arxiv.org/abs/2312.04111), **[[Code](https://github.com/xkLi-Allen/AMUD-ADPA)]**
+
+Henan Sun$^{#}$, **Xunkai Li**$^{#}$, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
+
+- in Proc. of IEEE International Conference on Data Engineering (ICDE), 2024, CCF-A.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/fedtad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/IJCAI2024-orange' />[FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](http://arxiv.org/abs/2404.14061), **[[Code](https://github.com/xkLi-Allen/FedTAD)]**
+
+Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
+
+- in Proc. of International Joint Conference on Artificial Intelligence (IJCAI), 2024, CCF-A.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2023</div><img src='images/fedgta.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/VLDB2023-orange' />[FedGTA: Topology-aware Averaging for Federated Graph Learning](https://arxiv.org/abs/2401.11755), **[[Code](https://github.com/xkLi-Allen/FedGTA)]**
+
+**Xunkai Li**, Zhenyu Wu, Wentao Zhang, Yinlin Zhu, Rong-Hua Li, Guoren Wang
+
+- in Proc. of International Conference on Very Large Data Bases (VLDB), 2023, CCF-A.
+
+</div>
+</div>
+
+
+
+<img src='https://img.shields.io/badge/TKDE2023-orange' />[Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://arxiv.org/abs/2206.08582) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
+
+Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Jian Yin, Yue Gao
+
+- in Proc. of IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
+
+<img src='https://img.shields.io/badge/NCAA2023-orange' />[Effective Hybrid Graph and Hypergraph Convolution Network for Collaborative Filtering](https://link.springer.com/article/10.1007/s00521-022-07735-y) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
+
+**Xunkai Li**$^{#}$, Ronghui Guo$^{#}$, Jianwen Chen, Youpeng Hu, Meixia Qu, Bin Jiang
+
+- in Proc. of Neural Computing & Applications (NCAA) 2023, CCF-C.
+
+<img src='https://img.shields.io/badge/NN2023-orange' />[LoyalDE: Improving The Performance of Graph Neural Networks with Loyal Node Discovery and Emphasis](https://www.sciencedirect.com/science/article/pii/S0893608023002678)
+
+Haotong Wei, Yinlin Zhu, **Xunkai Li**, Bin Jiang
+
+- in Proc. of Neural Networks (NN) 2023, CCF-B.
+
+
+<img src='https://img.shields.io/badge/IS2022-orange' />[Handling Information Loss of Graph Convolutional Networks in Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0306437922000448)
+
+Xin Xiong, **Xunkai Li**, Youpeng Hu, Yixuan Wu, Jian Yin
+
+- in Proc. of Knowledge and Information Systems (IS) 2022, CCF-B.
+
+
+<img src='https://img.shields.io/badge/KAIS2022-orange' />[Graph Relation Embedding Network for Click-through Rate Prediction](https://www.sciencedirect.com/science/article/pii/S0306437922000448)
+
+Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
+
+- in Proc. of Knowledge and Information Systems (KAIS) 2022, CCF-B.
+
+
+<!-- # 🎖 Honors and Awards
+
+* Academic Awards
+  * **KDD 2024** Student Travel Award
+
+* Scholarship(Selected)
+  * National Scholarship (Two Times): **2020** and **2021**
+  * Cao Jianyou Student Award: **2022**
+  * National Scholarship for Encouragement: **2022**
+  * Provincial Outstanding Graduates: **2023** -->
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.09 - 2028.06 (expected)*, Ph.D. in Computer Science, Beijing Institute of Technology (BIT)
+
+- *2018.09 - 2022.06*, B. Eng in Computer Science, Shandong University (SDU)
+
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+
+- *2024.08*, Oral presentation at IJCAI 2024 about our paper: '*FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning*'. 
+- *2024.05*, Oral presentation at WWW 2024 about our paper: '*Rethinking Node-wise Propagation for Large-scale Graph Learning*'. 
+- *2024.05*, Oral presentation at ICDE 2024 about our paper: '*Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification*' and '*AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity*'. 
+- *2024.02*, Oral presentation at AAAI 2024 about our paper: '*Towards Effective and General Graph Unlearning via Mutual Evolution*'. 
+
+
+
+# 🧑‍💻 Service
+
+- Conference Reviewers: 
+  - ICLR, NeurIPS, KDD, WWW
+- Journal Reviewers: 
+  - TKDE, TNNLS, TBD
+  
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- Research Intern
+  - Company/Institution: Large Language Model Center, IAAR, Shanghai.
+  - Advisor: Dr. Zhiyu Li
+  - Employment period: From 06/2024 to the present
+- Research Intern
+  - Company/Institution: DCML Group, Peking University
+  - Advisor: Prof. Wentao Zhang
+  - Employment period: From 10/2021 to the present
+- Research Intern
+  - Company/Institution: iMoon Lab, Tsinghua University
+  - Advisor: Prof. Yue Gao
+  - Employment period: From 06/2020 to 06/2021
