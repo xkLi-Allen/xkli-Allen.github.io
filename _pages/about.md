@@ -23,8 +23,6 @@ Prior to that, he received his B.Eng. degree in computer science department from
 Since 2021, he worked with Prof. [Wentao Zhang](https://zwt233.github.io) as a research intern at the Data-centric Machine Learning (DCML) group in the [Center of Machine Learning Research](https://cmlr.pku.edu.cn/People/Faculty/5ce37bd8e3244030ae3f34e01d23e761.htm) at [Peking University (PKU)](https://www.pku.edu.cn/). 
 As an active member of the team, Xunkai is the contributor of scalable graph learning system project [SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social).
 
-My research interest includes **Data-centric Machine Learning** and **General Graph Learning**. 
-I have published some papers at the top international DB/DM/AI conferences such as VLDB, ICDE, WWW, AAAI, IJCAI. 
 
 **Email**: cs.xunkai.li@gmail.com
 
@@ -33,7 +31,10 @@ I have published some papers at the top international DB/DM/AI conferences such 
 🌟 🌟 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat ：）
 
 
-Data-centric Machine Learning: In recent years, AI development has faced challenges, as many leading LLMs still rely on the Transformer architecture. As a result, performance gains have shifted from models to data-focused strategies, particularly in <font color=red>LLM-based Data Optimization</font>.
+My research interest includes **Data-centric Machine Learning** and **General Graph Learning**. 
+I have published some papers at the top international DB/DM/AI conferences such as VLDB, ICDE, WWW, AAAI, IJCAI. 
+
+**Data-centric Machine Learning**: In recent years, AI development has faced challenges, as many leading LLMs still rely on the Transformer architecture. As a result, performance gains have shifted from models to data-focused strategies, particularly in <font color=red>LLM-based Data Optimization</font>.
 
   - Data Quality: <font color=orange>Imbalance</font>, <font color=orange>Noise</font>, and <font color=orange>Out-Of-Distribution</font>.
 
@@ -43,7 +44,7 @@ Data-centric Machine Learning: In recent years, AI development has faced challen
   
   - Data Privacy: <font color=orange>Forgetting</font> and <font color=orange>Differential Privacy</font>. 
 
-General Graph Learning: Exploring graph learning in complex scenarios is crucial due to the limitations of traditional methods in addressing modern graphs and practical needs. My goal is to advance general graph learning through improved data representation and optimization objectives.
+**General Graph Learning**: Exploring graph learning in complex scenarios is crucial due to the limitations of traditional methods in addressing modern graphs and practical needs. My goal is to advance general graph learning through improved data representation and optimization objectives.
 
   - High-order Graphs: <font color=orange>Directed</font>, <font color=orange>Signed</font>, <font color=orange>Hypergraphs</font>, <font color=orange>Heterophily</font> <font color=orange>Temporal</font>, and <font color=red>LLM-based Rich Text Attribute Graph</font>.
 
@@ -65,9 +66,9 @@ General Graph Learning: Exploring graph learning in complex scenarios is crucial
 
 # 📝 Publications 
 
-$^{\#}$ indicates equal contribution
+\# indicates equal contribution
 
-#### Conference and Journal Publications
+<!-- #### Conference and Journal Publications -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/papers/gec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -98,9 +99,10 @@ Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Gouren Wang
 
 🎯<img src='https://img.shields.io/badge/AAAI2024-orange' />[Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760), **[[Code](https://github.com/xkLi-Allen/MEGU)]**
 
-**Xunkai Li**$^{\#}$, Yulin Zhao$^{\#}$, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Gouren Wang
+**Xunkai Li**\#, Yulin Zhao\#, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Gouren Wang
 
-- Association for the Advancement of Artificial Intelligence (AAAI), 2024, CCF-A. (Oral Presentation)
+- Association for the Advancement of Artificial Intelligence (AAAI), 2024, CCF-A.
+- 🎉🎉Oral Presentation
 
 </div>
 </div>
@@ -112,7 +114,8 @@ Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Gouren Wang
 
 **Xunkai Li**, Jingyuan Ma, Zhengyu Wu, Daohan Su, Wentao Zhang, Rong-Hua Li, Guoren Wang
 
-- The Web Conference (WWW), 2024, CCF-A. (Oral Presentation)
+- The Web Conference (WWW), 2024, CCF-A.
+- 🎉🎉Oral Presentation
 
 </div>
 </div>
@@ -134,7 +137,7 @@ Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Gouren Wang
 
 🎯<img src='https://img.shields.io/badge/ICDE2024-orange' />[Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification](https://arxiv.org/abs/2312.04111), **[[Code](https://github.com/xkLi-Allen/AMUD-ADPA)]**
 
-Henan Sun$^{\#}$, **Xunkai Li**$^{\#}$, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
+Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 
 - IEEE International Conference on Data Engineering (ICDE), 2024, CCF-A.
 
@@ -175,7 +178,7 @@ Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Ji
 
 <img src='https://img.shields.io/badge/NCAA2023-orange' />[Effective Hybrid Graph and Hypergraph Convolution Network for Collaborative Filtering](https://link.springer.com/article/10.1007/s00521-022-07735-y) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
 
-**Xunkai Li**$^{\#}$, Ronghui Guo$^{\#}$, Jianwen Chen, Youpeng Hu, Meixia Qu, Bin Jiang
+**Xunkai Li**\#, Ronghui Guo\#, Jianwen Chen, Youpeng Hu, Meixia Qu, Bin Jiang
 
 - Neural Computing & Applications (NCAA) 2023, CCF-C.
 
