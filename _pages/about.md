@@ -24,7 +24,7 @@ Since 2021, he worked with Prof. [Wentao Zhang](https://zwt233.github.io) as a r
 As an active member of the team, Xunkai is the contributor of scalable graph learning system project [SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social).
 
 My research interest includes **Data-centric Machine Learning** and **General Graph Learning**. 
-I have published some papers <a href='https://scholar.google.com/citations?user=VfEdG18AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fxkli-allen%2xkli-allen.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international DB/DM/AI conferences such as VLDB, ICDE, WWW, AAAI, IJCAI. 
+I have published some papers at the top international DB/DM/AI conferences such as VLDB, ICDE, WWW, AAAI, IJCAI. 
 
 **Email**: cs.xunkai.li@gmail.com
 
