@@ -44,7 +44,7 @@ I have published some papers at the top international DB/DM/AI conferences such 
   
   - Data Privacy: <font color=orange>Forgetting</font> and <font color=orange>Differential Privacy</font>. 
 
-**General Graph Learning**: Exploring graph learning in complex scenarios is crucial due to the limitations of traditional methods in addressing practical needs. My goal is to advance general graph learning through improved data representation and optimization objectives.
+**General Graph Learning**: Exploring graph learning in complex scenarios is crucial due to the limitations of traditional methods in addressing practical needs. My goal is to advance general graph learning through improved data representation and optimization objectives, particularly in <font color=red>Graph Learning in the era of LLM</font>.
 
   - High-order Graphs: <font color=orange>Directed</font>, <font color=orange>Signed</font>, <font color=orange>Hypergraphs</font>, <font color=orange>Heterophily</font>, <font color=orange>Temporal</font>, and <font color=red>LLM-based Rich Text Attribute Graph</font>.
 
