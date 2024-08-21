@@ -40,15 +40,15 @@ I have published some papers at the top international DB/DM/AI conferences such 
 
   - Data Quantity: <font color=orange>Annotation</font> and <font color=orange>Augmentation</font>.
 
-  - Data Efficiency: <font color=orange>Distillation</font>, <font color=orange>Compression</font>, and <font color=orange>Selection</font>
+  - Data Efficiency: <font color=orange>Distillation</font>, <font color=orange>Compression</font>, and <font color=orange>Selection</font>.
   
   - Data Privacy: <font color=orange>Forgetting</font> and <font color=orange>Differential Privacy</font>. 
 
-**General Graph Learning**: Exploring graph learning in complex scenarios is crucial due to the limitations of traditional methods in addressing modern graphs and practical needs. My goal is to advance general graph learning through improved data representation and optimization objectives.
+**General Graph Learning**: Exploring graph learning in complex scenarios is crucial due to the limitations of traditional methods in addressing practical needs. My goal is to advance general graph learning through improved data representation and optimization objectives.
 
-  - High-order Graphs: <font color=orange>Directed</font>, <font color=orange>Signed</font>, <font color=orange>Hypergraphs</font>, <font color=orange>Heterophily</font> <font color=orange>Temporal</font>, and <font color=red>LLM-based Rich Text Attribute Graph</font>.
+  - High-order Graphs: <font color=orange>Directed</font>, <font color=orange>Signed</font>, <font color=orange>Hypergraphs</font>, <font color=orange>Heterophily</font>, <font color=orange>Temporal</font>, and <font color=red>LLM-based Rich Text Attribute Graph</font>.
 
-  - Learning Paradigms: <font color=orange>Federated</font>, <font color=orange>Graph Structure Learning</font>, <font color=orange>Knowledge Distillation</font>, <font color=orange>Scalability</font>, and <font color=orange>Unlearning</font>, and <font color=red>LLM-based Collaboration</font>.
+  - Learning Paradigms: <font color=orange>Federated</font>, <font color=orange>Graph Structure Learning</font>, <font color=orange>Knowledge Distillation</font>, <font color=orange>Scalability</font>, <font color=orange>Unlearning</font>, and <font color=red>LLM-based Collaboration</font>.
 
 # 🔥 News
 
