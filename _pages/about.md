@@ -196,7 +196,7 @@ Xin Xiong, **Xunkai Li**, Youpeng Hu, Yixuan Wu, Jian Yin
 - Knowledge and Information Systems (IS) 2022, CCF-B.
 
 
-<img src='https://img.shields.io/badge/KAIS2022-orange'/> [Graph Relation Embedding Network for Click-through Rate Prediction](https://www.sciencedirect.com/science/article/pii/S0306437922000448)
+<img src='https://img.shields.io/badge/KAIS2022-orange'/> [Graph Relation Embedding Network for Click-through Rate Prediction](https://link.springer.com/article/10.1007/s10115-022-01714-4)
 
 Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 
