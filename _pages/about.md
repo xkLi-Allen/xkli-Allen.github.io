@@ -219,26 +219,26 @@ Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2023</div><img src='images/papers/ahgae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<img src='https://img.shields.io/badge/TKDE2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://arxiv.org/abs/2206.08582) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
+🎯<img src='https://img.shields.io/badge/TKDE2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://arxiv.org/abs/2206.08582) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
 
 Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Jian Yin, Yue Gao
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
 
-<img src='https://img.shields.io/badge/NN2023-orange'/> [LoyalDE: Improving The Performance of Graph Neural Networks with Loyal Node Discovery and Emphasis](https://www.sciencedirect.com/science/article/pii/S0893608023002678)
+🎯<img src='https://img.shields.io/badge/NN2023-orange'/> [LoyalDE: Improving The Performance of Graph Neural Networks with Loyal Node Discovery and Emphasis](https://www.sciencedirect.com/science/article/pii/S0893608023002678)
 
 Haotong Wei, Yinlin Zhu, **Xunkai Li**, Bin Jiang
 
 - Neural Networks (NN) 2023, CCF-B.
 
-<img src='https://img.shields.io/badge/IS2022-orange'/> [Handling Information Loss of Graph Convolutional Networks in Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0306437922000448)
+🎯<img src='https://img.shields.io/badge/IS2022-orange'/> [Handling Information Loss of Graph Convolutional Networks in Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0306437922000448)
 
 Xin Xiong, **Xunkai Li**, Youpeng Hu, Yixuan Wu, Jian Yin
 
 - Knowledge and Information Systems (IS) 2022, CCF-B.
 
 
-<img src='https://img.shields.io/badge/KAIS2022-orange'/> [Graph Relation Embedding Network for Click-through Rate Prediction](https://link.springer.com/article/10.1007/s10115-022-01714-4)
+🎯<img src='https://img.shields.io/badge/KAIS2022-orange'/> [Graph Relation Embedding Network for Click-through Rate Prediction](https://link.springer.com/article/10.1007/s10115-022-01714-4)
 
 Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 
