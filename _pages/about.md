@@ -52,7 +52,7 @@ I have published some papers at the top international DB/DM/AI conferences such 
 
 # 🔥 News
 
-* **2024-01**: One paper is accepted by ***WWW 2025***.
+* **2025-01**: One paper is accepted by ***WWW 2025***.
 * **2025-01**: One paper is accepted by ***VLDB 2025***.
 * **2024-08**: One paper is accepted by ***VLDB 2025***.
 * **2024-04**: One paper is accepted by ***IJCAI 2024***.
