@@ -68,10 +68,10 @@ I have published some papers at the top international DB/DM/AI conferences such 
 
 # 📝 Publications 
 
-\# indicates equal contribution
-
 ## First/Co-first Author
 <!-- #### Conference and Journal Publications -->
+
+\# indicates equal contribution
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/papers/map.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
