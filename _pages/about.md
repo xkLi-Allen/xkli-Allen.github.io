@@ -52,6 +52,8 @@ I have published some papers at the top international DB/DM/AI conferences such 
 
 # 🔥 News
 
+* **2024-01**: One paper is accepted by ***WWW 2025***.
+* **2025-01**: One paper is accepted by ***VLDB 2025***.
 * **2024-08**: One paper is accepted by ***VLDB 2025***.
 * **2024-04**: One paper is accepted by ***IJCAI 2024***.
 * **2024-03**: One paper is accepted by ***ICDE 2024***.
@@ -68,19 +70,33 @@ I have published some papers at the top international DB/DM/AI conferences such 
 
 \# indicates equal contribution
 
+## First/Co-first Author
 <!-- #### Conference and Journal Publications -->
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/papers/gec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/papers/map.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/VLDB2025-orange'/> [Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://xkli-allen.github.io/), **[[Code](https://xkli-allen.github.io/)]**
+🎯<img src='https://img.shields.io/badge/WWW2025-orange'/> [Toward Effective Digraph Representation Learning: A Magnetic Adaptive Propagation based Approach](https://arxiv.org/abs/2501.11817), **[[Code](https://github.com/xkLi-Allen/MAP)]**
 
-Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Gouren Wang
+**Xunkai Li**, Daohan Su, Zhengyu Wu, Guang Zeng, Hongchao Qin, Rong-Hua Li, Guoren Wang
+
+- The Web Conference (WWW), 2025, CCF-A.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/papers/openfgl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/VLDB2025-orange'/> [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning](https://arxiv.org/abs/2408.16288), **[[Code](https://github.com/xkLi-Allen/OpenFGL)]**
+
+**Xunkai Li**, Yinlin Zhu, Boyang Pang, Guochen Yan, Yeyu Yan, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
 
 - International Conference on Very Large Data Bases (VLDB), 2025, CCF-A.
 
 </div>
 </div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/papers/adafgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -144,17 +160,6 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/papers/fedtad.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-🎯<img src='https://img.shields.io/badge/IJCAI2024-orange'/> [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](http://arxiv.org/abs/2404.14061), **[[Code](https://github.com/xkLi-Allen/FedTAD)]**
-
-Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
-
-- International Joint Conference on Artificial Intelligence (IJCAI), 2024, CCF-A.
-
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2023</div><img src='images/papers/fedgta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -169,12 +174,8 @@ Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
 </div>
 
 
-
-<img src='https://img.shields.io/badge/TKDE2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://arxiv.org/abs/2206.08582) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
-
-Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Jian Yin, Yue Gao
-
-- IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCAA 2023</div><img src='images/papers/ehgcn.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 <img src='https://img.shields.io/badge/NCAA2023-orange'/> [Effective Hybrid Graph and Hypergraph Convolution Network for Collaborative Filtering](https://link.springer.com/article/10.1007/s00521-022-07735-y) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
 
@@ -182,12 +183,53 @@ Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Ji
 
 - Neural Computing & Applications (NCAA) 2023, CCF-C.
 
+</div>
+</div>
+
+
+
+
+
+## Co-author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/papers/gec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/VLDB2025-orange'/> [Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://xkli-allen.github.io/), **[[Code](https://xkli-allen.github.io/)]**
+
+Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Gouren Wang
+
+- International Conference on Very Large Data Bases (VLDB), 2025, CCF-A.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/papers/fedtad.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/IJCAI2024-orange'/> [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](http://arxiv.org/abs/2404.14061), **[[Code](https://github.com/xkLi-Allen/FedTAD)]**
+
+Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
+
+- International Joint Conference on Artificial Intelligence (IJCAI), 2024, CCF-A.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2023</div><img src='images/papers/ahgae.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<img src='https://img.shields.io/badge/TKDE2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://arxiv.org/abs/2206.08582) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
+
+Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Jian Yin, Yue Gao
+
+- IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
+
 <img src='https://img.shields.io/badge/NN2023-orange'/> [LoyalDE: Improving The Performance of Graph Neural Networks with Loyal Node Discovery and Emphasis](https://www.sciencedirect.com/science/article/pii/S0893608023002678)
 
 Haotong Wei, Yinlin Zhu, **Xunkai Li**, Bin Jiang
 
 - Neural Networks (NN) 2023, CCF-B.
-
 
 <img src='https://img.shields.io/badge/IS2022-orange'/> [Handling Information Loss of Graph Convolutional Networks in Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0306437922000448)
 
@@ -201,7 +243,6 @@ Xin Xiong, **Xunkai Li**, Youpeng Hu, Yixuan Wu, Jian Yin
 Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 
 - Knowledge and Information Systems (KAIS) 2022, CCF-B.
-
 
 <!-- # 🎖 Honors and Awards
 
