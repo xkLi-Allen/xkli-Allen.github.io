@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, Xunkai Li is a second year Ph.D. student of [School of Computer Science](https://cs.bit.edu.cn) in [Beijing Institute of Technology](https://bit.edu.cn) supervised by Prof. [Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
+Currently, Xunkai Li is a third year Ph.D. student of [School of Computer Science](https://cs.bit.edu.cn) in [Beijing Institute of Technology](https://bit.edu.cn) supervised by Prof. [Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
 Prior to that, he received his B.Eng. degree in computer science department from [Shandong University](http://www.sdu.edu.cn) in June 2022. 
 
 Since 2021, he worked with Prof. [Wentao Zhang](https://zwt233.github.io) as a research intern at the Data-centric Machine Learning (DCML) group in the [Center of Machine Learning Research](https://cmlr.pku.edu.cn/People/Faculty/5ce37bd8e3244030ae3f34e01d23e761.htm) at [Peking University (PKU)](https://www.pku.edu.cn/). 
@@ -52,6 +52,7 @@ I have published some papers at the top international DB/DM/AI conferences such 
 
 # 🔥 News
 
+* **2025-01**: One paper is accepted by ***TKDE 2025***.
 * **2025-01**: One paper is accepted by ***WWW 2025***.
 * **2025-01**: One paper is accepted by ***VLDB 2025***.
 * **2024-08**: One paper is accepted by ***VLDB 2025***.
@@ -191,6 +192,18 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 
 
 ## Co-author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/papers/gec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/TKDE2025-orange'/> [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)
+
+Lu Ma, Zeang Sheng, **Xunkai Li**, Xinyi Gao, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui
+
+- IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025, CCF-A.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/papers/gec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
