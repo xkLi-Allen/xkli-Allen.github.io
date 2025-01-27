@@ -193,7 +193,7 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 
 ## Co-author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/papers/gec.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/papers/sgl_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/TKDE2025-orange'/> [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)
