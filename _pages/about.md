@@ -291,12 +291,16 @@ Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 # 🧑‍💻 Service
 
 - Conference Reviewers: 
-  - ICLR, NeurIPS, KDD, WWW
+  - ICML, ICLR, NeurIPS, KDD, WWW, AISTATS, AAAI, IJCAI
 - Journal Reviewers: 
-  - TKDE, TNNLS, TBD
+  - TKDE, TKDD, TNNLS, TBD
   
 
 # 💻 Internships
+- Research Intern
+  - Company/Institution: Ant Group, Alibaba, Beijing.
+  - Advisor: Researcher Guang Zeng
+  - Employment period: From 12/2024 to the present
 - Research Intern
   - Company/Institution: Large Language Model Center, IAAR, Shanghai.
   - Advisor: Dr. Zhiyu Li
