@@ -208,7 +208,7 @@ Lu Ma, Zeang Sheng, **Xunkai Li**, Xinyi Gao, Zhezheng Hao, Ling Yang, Wentao Zh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/papers/gec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/VLDB2025-orange'/> [Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://xkli-allen.github.io/), **[[Code](https://xkli-allen.github.io/)]**
+🎯<img src='https://img.shields.io/badge/VLDB2025-orange'/> [Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://www.vldb.org/pvldb/vol17/p4760-li.pdf), **[[Code](https://github.com/Shiina-Mashiro-M/GEC)]**
 
 Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Gouren Wang
 
