@@ -211,7 +211,7 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 
 ## Co-author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/papers/fedgm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/papers/ijcai_zhanghao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](XXX), **[[Code](XXX)]**
