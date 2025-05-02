@@ -31,8 +31,8 @@ As an active member of the team, Xunkai is the contributor of scalable graph lea
 🌟 🌟 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat ：）
 
 
-My research interest includes **Data-centric Machine Learning** and **General Graph Learning**. 
-I have published some papers at the top international DB/DM/AI conferences such as VLDB, ICDE, WWW, AAAI, IJCAI. 
+My research interest includes **Data-centric Machine Learning**, **General Graph Learning**, and **AI4Science**. 
+I have published some papers at the top international ML/DB/DM/AI conferences such as ICML, VLDB, ICDE, WWW, AAAI, IJCAI. 
 
 **Data-centric Machine Learning**: In recent years, AI development has faced challenges, as many leading LLMs still rely on the Transformer architecture. As a result, performance gains have shifted from models to data-focused strategies, particularly in <font color=red>LLM-based Data Optimization</font>.
 
@@ -327,6 +327,10 @@ Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
   
 
 # 💻 Internships
+- Research Intern
+  - Company/Institution: The Hong Kong University of Science and Technology, Guangzhou.
+  - Advisor: Prof. Jia Li
+  - Employment period: From 3/2025 to the present
 - Research Intern
   - Company/Institution: Ant Group, Alibaba, Beijing.
   - Advisor: Researcher Guang Zeng
