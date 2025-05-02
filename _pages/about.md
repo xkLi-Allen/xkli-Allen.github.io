@@ -50,6 +50,10 @@ I have published some papers at the top international DB/DM/AI conferences such 
 
   - Learning Paradigms: <font color=orange>Federated</font>, <font color=orange>Graph Structure Learning</font>, <font color=orange>Knowledge Distillation</font>, <font color=orange>Scalability</font>, <font color=orange>Unlearning</font>, and <font color=red>LLM-based Collaboration</font>.
 
+**AI4Science**: The potential of AI4Science lies in its capacity to revolutionize our understanding and transformation of the world, with profound implications across all aspects of human life. My goal is to advance the practical application of artificial intelligence in scientific domains, driving a new wave of innovation—particularly in <font color=red> Integrating Graph Learning and LLMs into Life Sciences</font>.
+
+  - AI4Protein: <font color=orange>Protein Foundation Model</font>, <font color=orange>De Novo Protein Optimization</font>.
+
 # 🔥 News
 
 * **2025-05**: One paper is accepted by ***ICML 2025***.
@@ -207,7 +211,7 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 
 ## Co-author
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/paper/FedGM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/papers/fedgm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](XXX), **[[Code](XXX)]**
