@@ -52,6 +52,8 @@ I have published some papers at the top international DB/DM/AI conferences such 
 
 # 🔥 News
 
+* **2025-05**: One paper is accepted by ***ICML 2025***.
+* **2025-04**: One paper is accepted by ***IJCAI 2025***.
 * **2025-01**: One paper is accepted by ***TKDE 2025***.
 * **2025-01**: One paper is accepted by ***WWW 2025***.
 * **2025-01**: One paper is accepted by ***VLDB 2025***.
