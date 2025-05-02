@@ -74,6 +74,18 @@ I have published some papers at the top international DB/DM/AI conferences such 
 
 \# indicates equal contribution
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/papers/eden.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/ICML2025-orange'/> [Toward Data-centric Directed Graph Learning: An Entropy-driven Approach](xxx), **[[Code](https://github.com/xkLi-Allen/EDEN)]**
+
+**Xunkai Li**, Zhengyu Wu, Kaichi Yu, Hongchao Qin, Guang Zeng, Rong-Hua Li, Guoren Wang
+
+- International Conference on Machine Learning (ICML), 2025, CCF-A.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/papers/map.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -192,6 +204,18 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 
 
 ## Co-author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/paper/FedGM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](XXX), **[[Code](XXX)]**
+
+Hao Zhang, **Xunkai Li**, Yinlin Zhu, Lianglin Hu
+
+- International Joint Conference on Artificial Intelligence (IJCAI), 2025, CCF-A.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/papers/sgl_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
