@@ -83,7 +83,7 @@ I have published some papers at the top international ML/DB/DM/AI conferences su
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/papers/eden.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/ICML2025-orange'/> [Toward Data-centric Directed Graph Learning: An Entropy-driven Approach](xxx), **[[Code](https://github.com/xkLi-Allen/EDEN)]**
+🎯<img src='https://img.shields.io/badge/ICML2025-orange'/> [Toward Data-centric Directed Graph Learning: An Entropy-driven Approach](https://arxiv.org/abs/2505.00983), **[[Code](https://github.com/xkLi-Allen/EDEN)]**
 
 **Xunkai Li**, Zhengyu Wu, Kaichi Yu, Hongchao Qin, Guang Zeng, Rong-Hua Li, Guoren Wang
 
@@ -214,7 +214,7 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/papers/ijcai_zhanghao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](XXX), **[[Code](XXX)]**
+🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573), **[[Code](XXX)]**
 
 Hao Zhang, **Xunkai Li**, Yinlin Zhu, Lianglin Hu
 
