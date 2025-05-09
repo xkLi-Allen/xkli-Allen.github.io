@@ -30,29 +30,36 @@ As an active member of the team, Xunkai is the contributor of scalable graph lea
 
 🌟 🌟 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat ：）
 
+My research interests center on **Data-Centric Graph Intelligence**, including **Data-centric AI**, **Graph Machine Learning**, and <font color=orange>**AI4Science**</font>], with a focus on developing efficient ML solutions for structured data representation and mining. The goal of my work is to bridge the gap between theoretical advancements and practical applications in real-world industrial and scientific scenarios.
 
-My research interest includes **Data-centric Machine Learning**, **General Graph Learning**, and **AI4Science**. 
-I have published some papers at the top international ML/DB/DM/AI conferences such as ICML, VLDB, ICDE, WWW, AAAI, IJCAI. 
+**Data-centric AI**: In recent years, the development of AI has encountered certain challenges, with many leading LLMs still being based on the Transformer architecture. Consequently, research priorities in both academia and industry are increasingly shifting from model-centric approaches to data-centric paradigms. As a result, the pivotal role of data in driving AI advancements has become more pronounced, particularly in <font color=red>Data-centric LLM Optimization</font>.
 
-**Data-centric Machine Learning**: In recent years, AI development has faced challenges, as many leading LLMs still rely on the Transformer architecture. As a result, performance gains have shifted from models to data-focused strategies, particularly in <font color=red>LLM-based Data Optimization</font>.
+**Graph Machine Learning**: Graphs are pervasive across various domains, such as social networks (relationships), biomedicine (interactions), and recommendation systems (preferences). Graph ML, especially Graph Neural Networks (GNNs), can effectively learn from these structured data. This not only provides more effective solutions but also breaks through conventional methods, offering a novel perspective. Currently, I am particularly interested in <font color=red>Graph ML in the era of LLM</font>.
 
-  - Data Quality: <font color=orange>Imbalance</font>, <font color=orange>Noise</font>, and <font color=orange>Out-Of-Distribution</font>.
+**AI4Science**: The potential of AI4Science lies in its capacity to revolutionize our understanding and transformation of the world, with profound implications across all aspects of human life. My goal is to advance the practical application of artificial intelligence in scientific domains, driving a new wave of innovation—particularly in <font color=red> Integrating Graph and LLMs into Scientific Researches</font>.
 
-  - Data Quantity: <font color=orange>Annotation</font> and <font color=orange>Augmentation</font>.
+To date, I have published papers in leading international conferences on machine learning, databases, data mining, and artificial intelligence, including ICML, VLDB, ICDE, WWW, AAAI, and IJCAI. An overview of my research roadmap is as follows:
 
-  - Data Efficiency: <font color=orange>Distillation</font>, <font color=orange>Compression</font>, and <font color=orange>Selection</font>.
+  - Data Quantity: 
+  <font color=orange>Annotation</font> [<font color=#00ccff>[arXiv 2025 OGA](xxx)</font>], 
+  <font color=orange>Synthesize</font> [<font color=#00ccff>[arXiv 2025 GraphMaster](https://arxiv.org/abs/2504.00711)</font>], and 
+  <font color=orange>Large-scale</font> (<font color=#99ff33>Scalability</font>) [<font color=#00ccff>[WWW 2024 ATP](https://arxiv.org/abs/2402.06128)</font>] [<font color=#00ccff>[VLDB 2024 LightDiC](https://arxiv.org/abs/2401.11772)</font>] [<font color=#00ccff>[arXiv 2025 ScaDyG](https://arxiv.org/abs/2501.16002)</font>].
+
+  - Data Quality: 
+  <font color=orange>Paradigm</font> (<font color=#99ff33>Directed, Hypergraph, Heterophily, and Temporal</font>) [<font color=#00ccff>[TKDE 2023 AHGAE](https://arxiv.org/abs/2206.08582)</font>] [<font color=#00ccff>[ICDE 2024 ADPA](https://arxiv.org/abs/2312.04111)</font>] [<font color=#00ccff>[WWW 2025 MAP](https://arxiv.org/abs/2501.11817)</font>], 
+  <font color=orange>Augmentation</font> (<font color=#99ff33>Imbalance, Noise, and Out-Of-Distribution</font>) [<font color=#00ccff>[arXiv 2025 UltraTAG](https://arxiv.org/abs/2504.02343)</font>] [<font color=#00ccff>[arXiv 2025 LLaTA](https://arxiv.org/abs/2504.02343)</font>] [<font color=#00ccff>[arXiv 2025 LRW-OOD](xxx)</font>].
+
+  - Data Efficiency: <font color=orange>Distillation</font> (<font color=#99ff33>Coarsening, Sparsification, Condensation, and Pruning</font>) [<font color=#00ccff>[VLDB 2025 GEC](https://www.vldb.org/pvldb/vol17/p4760-li.pdf)</font>] [<font color=#00ccff>[ICML 2025 EDEN](https://arxiv.org/abs/2505.00983)</font>], 
+  <font color=orange>Generalization</font> (<font color=#99ff33>Graph Foundation Model</font>) [<font color=#00ccff>[arXiv 2025 MoT](xxx)</font>]
   
-  - Data Privacy: <font color=orange>Forgetting</font> and <font color=orange>Differential Privacy</font>. 
+  - Data Privacy: <font color=orange>Federated</font> [<font color=#00ccff>[VLDB 2023 FedGTA](https://arxiv.org/abs/2401.11755)</font>] [<font color=#00ccff>[IJCAI 2024 FedTAD](http://arxiv.org/abs/2404.14061)</font>] [<font color=#00ccff>[ICDE 2024 AdaFGL](https://arxiv.org/abs/2401.11750)</font>] [<font color=#00ccff>[IJCAI 2025 FedGM](https://arxiv.org/abs/2505.02573)</font>] [<font color=#00ccff>[VLDB 2025 OpenFGL](https://arxiv.org/abs/2408.16288)</font>] [<font color=#00ccff>[arXiv 2025 FedPG](https://arxiv.org/abs/2504.09493)</font>] [<font color=#00ccff>[arXiv 2025 FairFGL](https://arxiv.org/abs/2504.09963)</font>] [<font color=#00ccff>[arXiv 2025 FedGKC](https://arxiv.org/abs/2501.12624)</font>] [<font color=#00ccff>[arXiv 2025 FedC4](https://arxiv.org/abs/2504.14188)</font>] [<font color=#00ccff>[arXiv 2025 FedGFM](xxx)</font>] and 
+  <font color=orange>Unlearning</font> [<font color=#00ccff>[AAAI 2024 MEGU](https://arxiv.org/abs/2504.14188)</font>] [<font color=#00ccff>[arXiv 2025 SGU](https://arxiv.org/abs/2501.11823)</font>] [<font color=#00ccff>[arXiv 2025 OpenGU](https://arxiv.org/abs/2501.02728)</font>]. 
 
-**General Graph Learning**: Exploring graph learning in complex scenarios is crucial due to the limitations of traditional methods in addressing practical needs. My goal is to advance general graph learning through improved data representation and optimization objectives, particularly in <font color=red>Graph Learning in the era of LLM</font>.
+  - <font color=red>Data Management</font>: <font color=orange>Collection</font>, <font color=orange>Cleaning</font>, <font color=orange>Organization</font>, <font color=orange>Benchmark</font>
 
-  - High-order Graphs: <font color=orange>Directed</font>, <font color=orange>Signed</font>, <font color=orange>Hypergraphs</font>, <font color=orange>Heterophily</font>, <font color=orange>Temporal</font>, and <font color=red>LLM-based Rich Text Attribute Graph</font>.
+  - <font color=red>Data Application</font>: <font color=orange>RAG</font>, <font color=orange>LLM Reasoning</font>, <font color=orange>Multimodal</font>, <font color=orange>Agent System</font>, and <font color=orange>AI4Science</font> (<font color=#99ff33>AI4Protein, AI4Healthcare, and AI4Social</font>)
 
-  - Learning Paradigms: <font color=orange>Federated</font>, <font color=orange>Graph Structure Learning</font>, <font color=orange>Knowledge Distillation</font>, <font color=orange>Scalability</font>, <font color=orange>Unlearning</font>, and <font color=red>LLM-based Collaboration</font>.
 
-**AI4Science**: The potential of AI4Science lies in its capacity to revolutionize our understanding and transformation of the world, with profound implications across all aspects of human life. My goal is to advance the practical application of artificial intelligence in scientific domains, driving a new wave of innovation—particularly in <font color=red> Integrating Graph Learning and LLMs into Life Sciences</font>.
-
-  - AI4Protein: <font color=orange>Protein Foundation Model</font>, <font color=orange>De Novo Protein Optimization</font>.
 
 # 🔥 News
 
