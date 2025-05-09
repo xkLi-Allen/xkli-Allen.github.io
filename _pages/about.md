@@ -50,7 +50,7 @@ To date, I have published papers in leading international conferences on machine
 
   - Data Management: <font color=orange>Collection</font>, <font color=orange>Cleaning</font>, <font color=orange>Organization</font>, <font color=orange>Benchmark</font>
 
-  - Data Application: <font color=orange>RAG</font>, <font color=orange>LLM Reasoning</font>, <font color=orange>Multimodal</font>, <font color=orange>Agent System</font>, and <font color=orange>AI4Science</font> (<font color=green>AI4Protein, AI4Healthcare, and AI4Social</font>)
+  - Data Application: <font color=orange>LLM Optimization</font> (<font color=green>RAG, Reasoning, Multimodal, and Agent System</font>) and <font color=orange>AI4Science</font> (<font color=green>AI4Protein, AI4Healthcare, and AI4Social</font>)
 
 
 
