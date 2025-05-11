@@ -272,6 +272,13 @@ Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Ji
 </div>
 </div>
 
+
+🎯<img src='https://img.shields.io/badge/NN2025-orange'/> [FedPPD: Towards Effective Subgraph Federated Learning via Pseudo Prototype Distillation](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004204)
+
+Qi Lin, Jishuo Jia, Yinlin Zhu, **Xunkai Li**, Bin Jiang, Meixia Qu
+
+- Neural Networks (NN) 2025, CCF-B.
+
 🎯<img src='https://img.shields.io/badge/NN2023-orange'/> [LoyalDE: Improving The Performance of Graph Neural Networks with Loyal Node Discovery and Emphasis](https://www.sciencedirect.com/science/article/pii/S0893608023002678)
 
 Haotong Wei, Yinlin Zhu, **Xunkai Li**, Bin Jiang
