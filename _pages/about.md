@@ -40,7 +40,7 @@ My research interests center on **Data-Centric Graph Intelligence**, including *
 
 To date, I have published papers in leading international conferences on machine learning, databases, data mining, and artificial intelligence, including ICML, VLDB, ICDE, WWW, AAAI, and IJCAI. An overview of my research roadmap is as follows:
 
-  - Data Quantity: <font color=orange>Annotation</font> [[arXiv 2025 OGA](xxx)], <font color=orange>Synthesize</font> [[arXiv 2025 GraphMaster](https://arxiv.org/abs/2504.00711)], and <font color=orange>Large-scale</font> (<font color=green>Scalability</font>) [[WWW 2024 ATP](https://arxiv.org/abs/2402.06128)] [[VLDB 2024 LightDiC](https://arxiv.org/abs/2401.11772)] [[arXiv 2025 ScaDyG](https://arxiv.org/abs/2501.16002)].
+  - Data Quantity: <font color=orange>Annotation</font> [[arXiv 2025 OGA](xxx)], <font color=orange>Synthesize</font> [[arXiv 2025 GraphMaster](https://arxiv.org/abs/2504.00711)], and <font color=orange>Large-scale</font> (<font color=green>Scalability</font>) [[WWW 2024 ATP](https://arxiv.org/abs/2402.06128)] [[VLDB 2024 LightDiC](https://arxiv.org/abs/2401.11772)] [[arXiv 2025 ScaDyG](https://arxiv.org/abs/2501.16002)], Stream.
 
   - Data Quality: <font color=orange>Paradigm</font> (<font color=green>Directed, Hypergraph, Heterophily, Temporal, and Multimodal</font>) [[TKDE 2023 AHGAE](https://arxiv.org/abs/2206.08582)] [[ICDE 2024 ADPA](https://arxiv.org/abs/2312.04111)] [[WWW 2025 MAP](https://arxiv.org/abs/2501.11817)] and <font color=orange>Augmentation</font> (<font color=green>Imbalance, Sparsity, Noise, and Out-Of-Distribution</font>) [[arXiv 2025 UltraTAG](https://arxiv.org/abs/2504.02343)] [[arXiv 2025 LLaTA](https://arxiv.org/abs/2504.02343)] [[arXiv 2025 LRW-OOD](xxx)].
 
