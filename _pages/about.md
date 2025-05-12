@@ -48,7 +48,7 @@ To date, I have published papers in leading international conferences on machine
   
   - Data Privacy: <font color=orange>Federated</font> [[VLDB 2023 FedGTA](https://arxiv.org/abs/2401.11755)] [[IJCAI 2024 FedTAD](http://arxiv.org/abs/2404.14061)] [[ICDE 2024 AdaFGL](https://arxiv.org/abs/2401.11750)] [[IJCAI 2025 FedGM](https://arxiv.org/abs/2505.02573)] [[VLDB 2025 OpenFGL](https://arxiv.org/abs/2408.16288)] [[arXiv 2025 FedPG](https://arxiv.org/abs/2504.09493)] [[arXiv 2025 FairFGL](https://arxiv.org/abs/2504.09963)] [[arXiv 2025 FedGKC](https://arxiv.org/abs/2501.12624)] [[arXiv 2025 FedC4](https://arxiv.org/abs/2504.14188)] [[arXiv 2025 FedGFM](xxx)] and <font color=orange>Unlearning</font> [[AAAI 2024 MEGU](https://arxiv.org/abs/2504.14188)] [[arXiv 2025 SGU](https://arxiv.org/abs/2501.11823)] [[arXiv 2025 OpenGU](https://arxiv.org/abs/2501.02728)]. 
 
-  - Data Management: <font color=orange>Collection</font>, <font color=orange>Cleaning</font>, <font color=orange>Organization</font>, <font color=orange>Benchmark</font>.
+  - Data Management: <font color=orange>Collection</font>, <font color=orange>Organization</font>, and <font color=orange>Benchmark</font>.
 
   - Data Application: <font color=orange>LLM Optimization</font> (<font color=green>RAG, Reasoning, Multimodal, and Agent System</font>) and <font color=orange>AI4Science</font> (<font color=green>AI4Protein, AI4Healthcare, and AI4Social</font>).
 
