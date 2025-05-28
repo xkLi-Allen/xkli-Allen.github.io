@@ -320,12 +320,12 @@ Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 
 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 
 - *2024.08*, Oral presentation at IJCAI 2024 about our paper: '*FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning*'. 
 - *2024.05*, Oral presentation at WWW 2024 about our paper: '*Rethinking Node-wise Propagation for Large-scale Graph Learning*'. 
 - *2024.05*, Oral presentation at ICDE 2024 about our paper: '*Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification*' and '*AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity*'. 
-- *2024.02*, Oral presentation at AAAI 2024 about our paper: '*Towards Effective and General Graph Unlearning via Mutual Evolution*'. 
+- *2024.02*, Oral presentation at AAAI 2024 about our paper: '*Towards Effective and General Graph Unlearning via Mutual Evolution*'.  -->
 
 
 
@@ -341,7 +341,7 @@ Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 - Research Intern
   - Company/Institution: The Hong Kong University of Science and Technology, Guangzhou.
   - Advisor: Prof. Jia Li
-  - Employment period: From 3/2025 to the present
+  - Employment period: From 2/2025 to the present
 - Research Intern
   - Company/Institution: Ant Group, Alibaba, Beijing.
   - Advisor: Researcher Guang Zeng
