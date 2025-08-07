@@ -217,7 +217,7 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/papers/cikm_daohan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [DiRW: Path-Aware Digraph Learning for Heterophily](https://arxiv.org/abs/2410.10320), **[[Code](xxx)]**
+🎯<img src='https://img.shields.io/badge/CIKM2025-orange'/> [DiRW: Path-Aware Digraph Learning for Heterophily](https://arxiv.org/abs/2410.10320), **[[Code](xxx)]**
 
 Daohan Su, **Xunkai Li**, Zhenjun Li, Yinping Liao, Rong-Hua Li, Guoren Wang
 
@@ -242,7 +242,7 @@ Zekai Chen, **Xunkai Li**, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/papers/ijcai_zhanghao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/CIKM2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573), **[[Code](https://github.com/xkLi-Allen/FedGM)]**
+🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573), **[[Code](https://github.com/xkLi-Allen/FedGM)]**
 
 Hao Zhang, **Xunkai Li**, Yinlin Zhu, Lianglin Hu
 
@@ -369,11 +369,11 @@ Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 - Research Intern
   - Company/Institution: Ant Group, Alibaba, Beijing.
   - Advisor: Researcher Guang Zeng
-  - Employment period: From 12/2024 to the present
+  - Employment period: From 12/2024 to 08/2025
 - Research Intern
   - Company/Institution: Large Language Model Center, IAAR, Shanghai.
   - Advisor: Dr. Zhiyu Li
-  - Employment period: From 06/2024 to the present
+  - Employment period: From 06/2024 to 12/2024
 - Research Intern
   - Company/Institution: DCML Group, Peking University
   - Advisor: Prof. Wentao Zhang
