@@ -229,7 +229,7 @@ Daohan Su, **Xunkai Li**, Zhenjun Li, Yinping Liao, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/papers/cikm_zekai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning](https://arxiv.org/abs/2504.14188), **[[Code](xxx)]**
+🎯<img src='https://img.shields.io/badge/CIKM2025-orange'/> [FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning](https://arxiv.org/abs/2504.14188), **[[Code](xxx)]**
 
 Zekai Chen, **Xunkai Li**, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 
@@ -242,7 +242,7 @@ Zekai Chen, **Xunkai Li**, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/papers/ijcai_zhanghao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573), **[[Code](https://github.com/xkLi-Allen/FedGM)]**
+🎯<img src='https://img.shields.io/badge/CIKM2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573), **[[Code](https://github.com/xkLi-Allen/FedGM)]**
 
 Hao Zhang, **Xunkai Li**, Yinlin Zhu, Lianglin Hu
 
