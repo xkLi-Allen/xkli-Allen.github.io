@@ -290,7 +290,7 @@ Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2023</div><img src='images/papers/ahgae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/TKDE2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://arxiv.org/abs/2206.08582) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
+🎯<img src='https://img.shields.io/badge/TKDE2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://ieeexplore.ieee.org/document/9525190) **[[code](XXX)]**
 
 Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Jian Yin, Yue Gao
 
