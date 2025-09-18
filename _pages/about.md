@@ -87,7 +87,7 @@ To date, I have published some papers in leading international conferences on ML
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/fedgfm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/NeurIPS2025-orange'/> [Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://arxiv.org/abs/2505.12684), **[[Code](xxx)]**
+🎯<img src='https://img.shields.io/badge/NeurIPS 2025-orange'/> [Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://arxiv.org/abs/2505.12684), **[[Code](xxx)]**
 
 Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
 
@@ -99,7 +99,7 @@ Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/papers/eden.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/ICML2025-orange'/> [Toward Data-centric Directed Graph Learning: An Entropy-driven Approach](https://arxiv.org/abs/2505.00983), **[[Code](https://github.com/xkLi-Allen/EDEN)]**
+🎯<img src='https://img.shields.io/badge/ICML 2025-orange'/> [Toward Data-centric Directed Graph Learning: An Entropy-driven Approach](https://arxiv.org/abs/2505.00983), **[[Code](https://github.com/xkLi-Allen/EDEN)]**
 
 **Xunkai Li**, Zhengyu Wu, Kaichi Yu, Hongchao Qin, Guang Zeng, Rong-Hua Li, Guoren Wang
 
@@ -111,7 +111,7 @@ Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2025</div><img src='images/papers/map.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/WWW2025-orange'/> [Toward Effective Digraph Representation Learning: A Magnetic Adaptive Propagation based Approach](https://arxiv.org/abs/2501.11817), **[[Code](https://github.com/xkLi-Allen/MAP)]**
+🎯<img src='https://img.shields.io/badge/WWW 2025-orange'/> [Toward Effective Digraph Representation Learning: A Magnetic Adaptive Propagation based Approach](https://arxiv.org/abs/2501.11817), **[[Code](https://github.com/xkLi-Allen/MAP)]**
 
 **Xunkai Li**, Daohan Su, Zhengyu Wu, Guang Zeng, Hongchao Qin, Rong-Hua Li, Guoren Wang
 
@@ -123,7 +123,7 @@ Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/papers/openfgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/VLDB2025-orange'/> [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning](https://arxiv.org/abs/2408.16288), **[[Code](https://github.com/xkLi-Allen/OpenFGL)]**
+🎯<img src='https://img.shields.io/badge/VLDB 2025-orange'/> [OpenFGL: A Comprehensive Benchmark for Federated Graph Learning](https://arxiv.org/abs/2408.16288), **[[Code](https://github.com/xkLi-Allen/OpenFGL)]**
 
 **Xunkai Li**, Yinlin Zhu, Boyang Pang, Guochen Yan, Yeyu Yan, Zening Li, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
 
@@ -136,7 +136,7 @@ Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/papers/adafgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/ICDE2024-orange'/> [AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity](https://arxiv.org/abs/2401.11750), **[[Code](https://github.com/xkLi-Allen/AdaFGL)]**
+🎯<img src='https://img.shields.io/badge/ICDE 2024-orange'/> [AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity](https://arxiv.org/abs/2401.11750), **[[Code](https://github.com/xkLi-Allen/AdaFGL)]**
 
 **Xunkai Li**, Zhengyu Wu,  Wentao Zhang, Henan Sun, Rong-Hua Li, Guoren Wang
 
@@ -148,7 +148,7 @@ Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2024</div><img src='images/papers/megu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/AAAI2024-orange'/> [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760), **[[Code](https://github.com/xkLi-Allen/MEGU)]**
+🎯<img src='https://img.shields.io/badge/AAAI 2024-orange'/> [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760), **[[Code](https://github.com/xkLi-Allen/MEGU)]**
 
 **Xunkai Li**\#, Yulin Zhao\#, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
 
@@ -161,7 +161,7 @@ Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">WWW 2024</div><img src='images/papers/atp.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/WWW2024-orange'/> [Rethinking Node-wise Propagation for Large-scale Graph Learning](https://arxiv.org/abs/2402.06128), **[[Code](https://github.com/xkLi-Allen/ATP)]**
+🎯<img src='https://img.shields.io/badge/WWW 2024-orange'/> [Rethinking Node-wise Propagation for Large-scale Graph Learning](https://arxiv.org/abs/2402.06128), **[[Code](https://github.com/xkLi-Allen/ATP)]**
 
 **Xunkai Li**, Jingyuan Ma, Zhengyu Wu, Daohan Su, Wentao Zhang, Rong-Hua Li, Guoren Wang
 
@@ -174,7 +174,7 @@ Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2024</div><img src='images/papers/lightdic.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/VLDB2024-orange'/> [LightDiC: A Simple yet Effective Approach for Large-scale Digraph Representation Learning](https://arxiv.org/abs/2401.11772), **[[Code](https://github.com/xkLi-Allen/LightDiC)]**
+🎯<img src='https://img.shields.io/badge/VLDB 2024-orange'/> [LightDiC: A Simple yet Effective Approach for Large-scale Digraph Representation Learning](https://arxiv.org/abs/2401.11772), **[[Code](https://github.com/xkLi-Allen/LightDiC)]**
 
 **Xunkai Li**, Meihao Liao, Zhengyu Wu, Daohan Su, Wentao Zhang, Rong-Hua Li, Guoren Wang
 
@@ -186,7 +186,7 @@ Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICDE 2024</div><img src='images/papers/adpa.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/ICDE2024-orange'/> [Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification](https://arxiv.org/abs/2312.04111), **[[Code](https://github.com/xkLi-Allen/AMUD-ADPA)]**
+🎯<img src='https://img.shields.io/badge/ICDE 2024-orange'/> [Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification](https://arxiv.org/abs/2312.04111), **[[Code](https://github.com/xkLi-Allen/AMUD-ADPA)]**
 
 Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 
@@ -199,7 +199,7 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2023</div><img src='images/papers/fedgta.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/VLDB2023-orange'/> [FedGTA: Topology-aware Averaging for Federated Graph Learning](https://arxiv.org/abs/2401.11755), **[[Code](https://github.com/xkLi-Allen/FedGTA)]**
+🎯<img src='https://img.shields.io/badge/VLDB 2023-orange'/> [FedGTA: Topology-aware Averaging for Federated Graph Learning](https://arxiv.org/abs/2401.11755), **[[Code](https://github.com/xkLi-Allen/FedGTA)]**
 
 **Xunkai Li**, Zhengyu Wu, Wentao Zhang, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 
@@ -212,7 +212,7 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NCAA 2023</div><img src='images/papers/ehgcn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<img src='https://img.shields.io/badge/NCAA2023-orange'/> [Effective Hybrid Graph and Hypergraph Convolution Network for Collaborative Filtering](https://link.springer.com/article/10.1007/s00521-022-07735-y) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
+<img src='https://img.shields.io/badge/NCAA 2023-orange'/> [Effective Hybrid Graph and Hypergraph Convolution Network for Collaborative Filtering](https://link.springer.com/article/10.1007/s00521-022-07735-y) **[[code](https://github.com/RonghuiGuo/EHGCN)]**
 
 **Xunkai Li**\#, Ronghui Guo\#, Jianwen Chen, Youpeng Hu, Meixia Qu, Bin Jiang
 
@@ -230,7 +230,7 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/neurips_graphmaster.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/NeurIPS2025-orange'/> [GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](https://arxiv.org/abs/2504.00711), **[[Code](xxx)]**
+🎯<img src='https://img.shields.io/badge/NeurIPS 2025-orange'/> [GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](https://arxiv.org/abs/2504.00711), **[[Code](xxx)]**
 
 Enjun Du, **Xunkai Li**, Tian Jin, Zhihan Zhang, Rong-Hua Li, Guoren Wang
 
@@ -243,7 +243,7 @@ Enjun Du, **Xunkai Li**, Tian Jin, Zhihan Zhang, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/neurips_opengu.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/NeurIPS2025-orange'/> [OpenGU: A Comprehensive Benchmark for Graph Unlearning](https://arxiv.org/abs/2501.02728), **[[Code](xxx)]**
+🎯<img src='https://img.shields.io/badge/NeurIPS 2025-orange'/> [OpenGU: A Comprehensive Benchmark for Graph Unlearning](https://arxiv.org/abs/2501.02728), **[[Code](xxx)]**
 
 Bowen Fan, Yuming Ai, **Xunkai Li**, Zhilin Guo, Rong-Hua Li, Guoren Wang
 
@@ -257,7 +257,7 @@ Bowen Fan, Yuming Ai, **Xunkai Li**, Zhilin Guo, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/papers/cikm_daohan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/CIKM2025-orange'/> [DiRW: Path-Aware Digraph Learning for Heterophily](https://arxiv.org/abs/2410.10320), **[[Code](xxx)]**
+🎯<img src='https://img.shields.io/badge/CIKM 2025-orange'/> [DiRW: Path-Aware Digraph Learning for Heterophily](https://arxiv.org/abs/2410.10320), **[[Code](xxx)]**
 
 Daohan Su, **Xunkai Li**, Zhenjun Li, Yinping Liao, Rong-Hua Li, Guoren Wang
 
@@ -269,7 +269,7 @@ Daohan Su, **Xunkai Li**, Zhenjun Li, Yinping Liao, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/papers/cikm_zekai.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/CIKM2025-orange'/> [FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning](https://arxiv.org/abs/2504.14188), **[[Code](xxx)]**
+🎯<img src='https://img.shields.io/badge/CIKM 2025-orange'/> [FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning](https://arxiv.org/abs/2504.14188), **[[Code](xxx)]**
 
 Zekai Chen, **Xunkai Li**, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 
@@ -282,7 +282,7 @@ Zekai Chen, **Xunkai Li**, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/papers/ijcai_zhanghao.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/IJCAI2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573), **[[Code](https://github.com/xkLi-Allen/FedGM)]**
+🎯<img src='https://img.shields.io/badge/IJCAI 2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573), **[[Code](https://github.com/xkLi-Allen/FedGM)]**
 
 Hao Zhang, **Xunkai Li**, Yinlin Zhu, Lianglin Hu
 
@@ -294,7 +294,7 @@ Hao Zhang, **Xunkai Li**, Yinlin Zhu, Lianglin Hu
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/papers/sgl_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/TKDE2025-orange'/> [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)
+🎯<img src='https://img.shields.io/badge/TKDE 2025-orange'/> [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)
 
 Lu Ma, Zeang Sheng, **Xunkai Li**, Xinyi Gao, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui
 
@@ -306,7 +306,7 @@ Lu Ma, Zeang Sheng, **Xunkai Li**, Xinyi Gao, Zhezheng Hao, Ling Yang, Wentao Zh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/papers/gec.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/VLDB2025-orange'/> [Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://www.vldb.org/pvldb/vol17/p4760-li.pdf), **[[Code](https://github.com/Shiina-Mashiro-M/GEC)]**
+🎯<img src='https://img.shields.io/badge/VLDB 2025-orange'/> [Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://www.vldb.org/pvldb/vol17/p4760-li.pdf), **[[Code](https://github.com/Shiina-Mashiro-M/GEC)]**
 
 Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Guoren Wang
 
@@ -318,7 +318,7 @@ Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Guoren Wang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/papers/fedtad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/IJCAI2024-orange'/> [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](http://arxiv.org/abs/2404.14061), **[[Code](https://github.com/xkLi-Allen/FedTAD)]**
+🎯<img src='https://img.shields.io/badge/IJCAI 2024-orange'/> [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](http://arxiv.org/abs/2404.14061), **[[Code](https://github.com/xkLi-Allen/FedTAD)]**
 
 Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
 
@@ -330,7 +330,7 @@ Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2023</div><img src='images/papers/ahgae.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-🎯<img src='https://img.shields.io/badge/TKDE2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://ieeexplore.ieee.org/document/9525190) **[[code](XXX)]**
+🎯<img src='https://img.shields.io/badge/TKDE 2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://ieeexplore.ieee.org/document/9525190) **[[code](XXX)]**
 
 Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Jian Yin, Yue Gao
 
@@ -340,26 +340,26 @@ Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Ji
 </div>
 
 
-🎯<img src='https://img.shields.io/badge/NN2025-orange'/> [FedPPD: Towards Effective Subgraph Federated Learning via Pseudo Prototype Distillation](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004204)
+🎯<img src='https://img.shields.io/badge/NN 2025-orange'/> [FedPPD: Towards Effective Subgraph Federated Learning via Pseudo Prototype Distillation](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004204)
 
 Qi Lin, Jishuo Jia, Yinlin Zhu, **Xunkai Li**, Bin Jiang, Meixia Qu
 
 - Neural Networks (NN) 2025, CCF-B.
 
-🎯<img src='https://img.shields.io/badge/NN2023-orange'/> [LoyalDE: Improving The Performance of Graph Neural Networks with Loyal Node Discovery and Emphasis](https://www.sciencedirect.com/science/article/pii/S0893608023002678)
+🎯<img src='https://img.shields.io/badge/NN 2023-orange'/> [LoyalDE: Improving The Performance of Graph Neural Networks with Loyal Node Discovery and Emphasis](https://www.sciencedirect.com/science/article/pii/S0893608023002678)
 
 Haotong Wei, Yinlin Zhu, **Xunkai Li**, Bin Jiang
 
 - Neural Networks (NN) 2023, CCF-B.
 
-🎯<img src='https://img.shields.io/badge/IS2022-orange'/> [Handling Information Loss of Graph Convolutional Networks in Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0306437922000448)
+🎯<img src='https://img.shields.io/badge/IS 2022-orange'/> [Handling Information Loss of Graph Convolutional Networks in Collaborative Filtering](https://www.sciencedirect.com/science/article/pii/S0306437922000448)
 
 Xin Xiong, **Xunkai Li**, Youpeng Hu, Yixuan Wu, Jian Yin
 
 - Knowledge and Information Systems (IS) 2022, CCF-B.
 
 
-🎯<img src='https://img.shields.io/badge/KAIS2022-orange'/> [Graph Relation Embedding Network for Click-through Rate Prediction](https://link.springer.com/article/10.1007/s10115-022-01714-4)
+🎯<img src='https://img.shields.io/badge/KAIS 2022-orange'/> [Graph Relation Embedding Network for Click-through Rate Prediction](https://link.springer.com/article/10.1007/s10115-022-01714-4)
 
 Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 
