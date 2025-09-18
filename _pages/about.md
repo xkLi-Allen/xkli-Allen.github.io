@@ -58,7 +58,8 @@ To date, I have published some papers in leading international conferences on ML
 
 # 🔥 News
 
-* **2025-08**: Two paper is accepted by ***CIKM 2025***.
+* **2025-09**: Three paper are accepted by ***NeurIPS 2025***.
+* **2025-08**: Two paper are accepted by ***CIKM 2025***.
 * **2025-05**: One paper is accepted by ***ICML 2025***.
 * **2025-04**: One paper is accepted by ***IJCAI 2025***.
 * **2025-01**: One paper is accepted by ***TKDE 2025***.
@@ -82,6 +83,18 @@ To date, I have published some papers in leading international conferences on ML
 <!-- #### Conference and Journal Publications -->
 
 \# indicates equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/fedgfm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/NeurIPS2025-orange'/> [Towards Effective Federated Graph Foundation Model via Mitigating Knowledge Entanglement](https://arxiv.org/abs/2505.12684), **[[Code](xxx)]**
+
+Yinlin Zhu\#, **Xunkai Li**\#, Jishuo Jia, Miao Hu, Di Wu, Meikang Qiu
+
+- Neural Information Processing Systems (NeurIPS), 2025, CCF-A.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025</div><img src='images/papers/eden.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -125,7 +138,7 @@ To date, I have published some papers in leading international conferences on ML
 
 🎯<img src='https://img.shields.io/badge/ICDE2024-orange'/> [AdaFGL: A New Paradigm for Federated Node Classification with Topology Heterogeneity](https://arxiv.org/abs/2401.11750), **[[Code](https://github.com/xkLi-Allen/AdaFGL)]**
 
-**Xunkai Li**, Zhenyu Wu,  Wentao Zhang, Henan Sun, Rong-Hua Li, Gouren Wang
+**Xunkai Li**, Zhengyu Wu,  Wentao Zhang, Henan Sun, Rong-Hua Li, Guoren Wang
 
 - IEEE International Conference on Data Engineering (ICDE), 2024, CCF-A.
 
@@ -137,7 +150,7 @@ To date, I have published some papers in leading international conferences on ML
 
 🎯<img src='https://img.shields.io/badge/AAAI2024-orange'/> [Towards Effective and General Graph Unlearning via Mutual Evolution](https://arxiv.org/abs/2401.11760), **[[Code](https://github.com/xkLi-Allen/MEGU)]**
 
-**Xunkai Li**\#, Yulin Zhao\#, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Gouren Wang
+**Xunkai Li**\#, Yulin Zhao\#, Zhengyu Wu, Wentao Zhang, Rong-Hua Li, Guoren Wang
 
 - Association for the Advancement of Artificial Intelligence (AAAI), 2024, CCF-A.
 - 🎉🎉 Oral Presentation
@@ -175,7 +188,7 @@ To date, I have published some papers in leading international conferences on ML
 
 🎯<img src='https://img.shields.io/badge/ICDE2024-orange'/> [Breaking the Entanglement of Homophily and Heterophily in Semi-supervised Node Classification](https://arxiv.org/abs/2312.04111), **[[Code](https://github.com/xkLi-Allen/AMUD-ADPA)]**
 
-Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
+Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 
 - IEEE International Conference on Data Engineering (ICDE), 2024, CCF-A.
 
@@ -188,7 +201,7 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 
 🎯<img src='https://img.shields.io/badge/VLDB2023-orange'/> [FedGTA: Topology-aware Averaging for Federated Graph Learning](https://arxiv.org/abs/2401.11755), **[[Code](https://github.com/xkLi-Allen/FedGTA)]**
 
-**Xunkai Li**, Zhenyu Wu, Wentao Zhang, Yinlin Zhu, Rong-Hua Li, Guoren Wang
+**Xunkai Li**, Zhengyu Wu, Wentao Zhang, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 
 - International Conference on Very Large Data Bases (VLDB), 2023, CCF-A.
 
@@ -213,6 +226,33 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Gouren Wang
 
 
 ## Co-author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/neurips_graphmaster.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/NeurIPS2025-orange'/> [GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](https://arxiv.org/abs/2504.00711), **[[Code](xxx)]**
+
+Enjun Du, **Xunkai Li**, Tian Jin, Zhihan Zhang, Rong-Hua Li, Guoren Wang
+
+- Neural Information Processing Systems (NeurIPS), 2025, CCF-A.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/neurips_opengu.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/NeurIPS2025-orange'/> [OpenGU: A Comprehensive Benchmark for Graph Unlearning](https://arxiv.org/abs/2501.02728), **[[Code](xxx)]**
+
+Bowen Fan, Yuming Ai, **Xunkai Li**, Zhilin Guo, Rong-Hua Li, Guoren Wang
+
+- Neural Information Processing Systems (NeurIPS), 2025, CCF-A.
+
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/papers/cikm_daohan.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -268,7 +308,7 @@ Lu Ma, Zeang Sheng, **Xunkai Li**, Xinyi Gao, Zhezheng Hao, Ling Yang, Wentao Zh
 
 🎯<img src='https://img.shields.io/badge/VLDB2025-orange'/> [Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://www.vldb.org/pvldb/vol17/p4760-li.pdf), **[[Code](https://github.com/Shiina-Mashiro-M/GEC)]**
 
-Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Gouren Wang
+Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Guoren Wang
 
 - International Conference on Very Large Data Bases (VLDB), 2025, CCF-A.
 
