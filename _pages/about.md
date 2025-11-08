@@ -85,7 +85,7 @@ To date, I have published some papers in leading international conferences on ML
 
 \# indicates equal contribution
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/papers/fedgfm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/papers/page.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/AAAI 2026-orange'/> [PAGE: A Unified Approach for Federated Graph Unlearning](https://arxiv.org/abs/2508.02485), **[[Code](xxx)]**
