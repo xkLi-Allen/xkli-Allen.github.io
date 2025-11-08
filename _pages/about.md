@@ -92,7 +92,7 @@ To date, I have published some papers in leading international conferences on ML
 
 Yuming Ai\#, **Xunkai Li**\#, Jiaqi Chao, Bowen Fan, Zhengyu Wu, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 
-- Association for the Advancement of Artificial Intelligence (AAAI), 2024, CCF-A.
+- Association for the Advancement of Artificial Intelligence (AAAI), 2026, CCF-A.
 
 </div>
 </div>
