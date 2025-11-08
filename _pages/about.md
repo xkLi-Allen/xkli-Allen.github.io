@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Currently, Xunkai Li is a third year Ph.D. student of [School of Computer Science](https://cs.bit.edu.cn) in [Beijing Institute of Technology](https://bit.edu.cn) supervised by Prof. [Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
+Currently, Xunkai Li is a fourth year Ph.D. student of [School of Computer Science](https://cs.bit.edu.cn) in [Beijing Institute of Technology](https://bit.edu.cn) supervised by Prof. [Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
 Prior to that, he received his B.Eng. degree in computer science department from [Shandong University](http://www.sdu.edu.cn) in June 2022. 
-As an active member of the research team, Xunkai is the organizer or the contributor of scalable graph learning system project [SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social), federated graph learning system project [OpenFGL](https://github.com/xkLi-Allen/OpenFGL) ![GitHub Repo stars](https://img.shields.io/github/stars/xkLi-Allen/OpenFGL?style=social), and graph unlearning system project [OpenGU](https://github.com/bwfan-bit/OpenGU) ![GitHub Repo stars](https://img.shields.io/github/stars/bwfan-bit/OpenGU?style=social).
+As an active member of the research team, Xunkai is the organizer or the contributor of scalable graph learning system project [TKDE 2025 SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social), federated graph learning system project [VLDB 2025 OpenFGL](https://github.com/xkLi-Allen/OpenFGL) ![GitHub Repo stars](https://img.shields.io/github/stars/xkLi-Allen/OpenFGL?style=social), and graph unlearning system project [NeurIPS 2025 OpenGU](https://github.com/bwfan-bit/OpenGU) ![GitHub Repo stars](https://img.shields.io/github/stars/bwfan-bit/OpenGU?style=social).
 
 
 **Email**: cs.xunkai.li@gmail.com
@@ -39,7 +39,7 @@ For instance, many leading Pre-trained Large Models (PLMs) still rely on the Tra
 **AI4Science**: The transformative potential of AI4Science lies in its capacity to revolutionize our understanding and transformation of the world, with profound implications across all aspects of human life. My goal is to advance the practical application of artificial intelligence in scientific domains, driving a new wave of innovation—particularly in <font color=red> Integrating Graph and PLM into Scientific Researches</font>.
 
 
-To date, I have published some papers in leading international conferences on ML, DB, DM, and AI, including ICML, VLDB, ICDE, WWW, AAAI, and IJCAI. An overview of my research roadmap is as follows:
+To date, I have published some papers in leading international conferences on ML, DB, DM, and AI, including ICML, NeurIPS, VLDB, ICDE, WWW, AAAI, and IJCAI. An overview of my research roadmap is as follows:
 
   - Data Quantity: <font color=orange>Annotation</font> [[arXiv 2025 OGA](https://arxiv.org/abs/2505.13989)] [[arXiv 2025 HIAL](https://arxiv.org/abs/2507.20490)], <font color=orange>Synthesize</font> [[NeurIPS 2025 GraphMaster](https://arxiv.org/abs/2504.00711)], and <font color=orange>Scalability</font> [[WWW 2024 ATP](https://arxiv.org/abs/2402.06128)] [[VLDB 2024 LightDiC](https://arxiv.org/abs/2401.11772)] [[arXiv 2025 ScaDyG](https://arxiv.org/abs/2501.16002)], <font color=orange>Stream</font> (<font color=green>Open-world</font>).
 
@@ -47,7 +47,7 @@ To date, I have published some papers in leading international conferences on ML
 
   - Data Efficiency: <font color=orange>Distillation</font> (<font color=green>Coarsening, Sparsification, Condensation, and Pruning</font>) [[VLDB 2025 GEC](https://www.vldb.org/pvldb/vol17/p4760-li.pdf)] [[ICML 2025 EDEN](https://arxiv.org/abs/2505.00983)], <font color=orange>Generalization</font> (<font color=green>Foundation Model</font>) [[arXiv 2025 MoT](https://xkli-allen.github.io/)].
   
-  - Data Privacy: <font color=orange>Federated</font> [[VLDB 2023 FedGTA](https://arxiv.org/abs/2401.11755)] [[IJCAI 2024 FedTAD](http://arxiv.org/abs/2404.14061)] [[ICDE 2024 AdaFGL](https://arxiv.org/abs/2401.11750)] [[IJCAI 2025 FedGM](https://arxiv.org/abs/2505.02573)] [[VLDB 2025 OpenFGL](https://arxiv.org/abs/2408.16288)] [[CIKM 2025 FedC4](https://arxiv.org/abs/2504.14188)] [[NeurIPS 2025 FedGFM](https://arxiv.org/abs/2505.12684)] [[arXiv 2025 FedPG](https://arxiv.org/abs/2504.09493)] [[arXiv 2025 FairFGL](https://arxiv.org/abs/2504.09963)] [[arXiv 2025 FedSA-GCL](https://arxiv.org/abs/2507.18219)] [[arXiv 2025 FedGKC](https://arxiv.org/abs/2501.12624)] and <font color=orange>Unlearning</font> [[AAAI 2024 MEGU](https://arxiv.org/abs/2401.11760)] [[arXiv 2025 SGU](https://arxiv.org/abs/2501.11823)] [[NeurIPS 2025 OpenGU](https://arxiv.org/abs/2501.02728)] [[arXiv 2025 FedGU](https://arxiv.org/abs/2508.02485)]. 
+  - Data Privacy: <font color=orange>Federated</font> [[VLDB 2023 FedGTA](https://arxiv.org/abs/2401.11755)] [[IJCAI 2024 FedTAD](http://arxiv.org/abs/2404.14061)] [[ICDE 2024 AdaFGL](https://arxiv.org/abs/2401.11750)] [[IJCAI 2025 FedGM](https://arxiv.org/abs/2505.02573)] [[VLDB 2025 OpenFGL](https://arxiv.org/abs/2408.16288)] [[CIKM 2025 FedC4](https://arxiv.org/abs/2504.14188)] [[NeurIPS 2025 FedGFM](https://arxiv.org/abs/2505.12684)] [[AAAI 2026 PAGE](https://arxiv.org/abs/2508.02485)] [[arXiv 2025 FedPG](https://arxiv.org/abs/2504.09493)] [[arXiv 2025 FairFGL](https://arxiv.org/abs/2504.09963)] [[arXiv 2025 FedSA-GCL](https://arxiv.org/abs/2507.18219)] [[arXiv 2025 FedGKC](https://arxiv.org/abs/2501.12624)] and <font color=orange>Unlearning</font> [[AAAI 2024 MEGU](https://arxiv.org/abs/2401.11760)] [[arXiv 2025 SGU](https://arxiv.org/abs/2501.11823)] [[NeurIPS 2025 OpenGU](https://arxiv.org/abs/2501.02728)]. 
 
   - Data Management: <font color=orange>Collection</font>, <font color=orange>Clean</font>, and <font color=orange>Evaluation</font>.
 
@@ -58,6 +58,7 @@ To date, I have published some papers in leading international conferences on ML
 
 # 🔥 News
 
+* **2025-11**: One paper is accepted by ***AAAI 2026***.
 * **2025-09**: Three paper are accepted by ***NeurIPS 2025***.
 * **2025-08**: Two paper are accepted by ***CIKM 2025***.
 * **2025-05**: One paper is accepted by ***ICML 2025***.
@@ -83,6 +84,19 @@ To date, I have published some papers in leading international conferences on ML
 <!-- #### Conference and Journal Publications -->
 
 \# indicates equal contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/papers/fedgfm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/AAAI 2026-orange'/> [PAGE: A Unified Approach for Federated Graph Unlearning](https://arxiv.org/abs/2508.02485), **[[Code](xxx)]**
+
+Yuming Ai\#, **Xunkai Li**\#, Jiaqi Chao, Bowen Fan, Zhengyu Wu, Yinlin Zhu, Rong-Hua Li, Guoren Wang
+
+- Association for the Advancement of Artificial Intelligence (AAAI), 2024, CCF-A.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/fedgfm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
