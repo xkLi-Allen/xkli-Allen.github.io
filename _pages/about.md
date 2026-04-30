@@ -19,7 +19,9 @@ redirect_from:
 
 Currently, Xunkai Li is a fourth year Ph.D. student of [School of Computer Science](https://cs.bit.edu.cn) in [Beijing Institute of Technology](https://bit.edu.cn) supervised by Prof. [Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
 Prior to that, he received his B.Eng. degree in computer science department from [Shandong University](http://www.sdu.edu.cn) in June 2022. 
-As an active member of the research team, Xunkai is the organizer or the contributor of scalable graph learning system project [TKDE 2025 SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social), federated graph learning system project [VLDB 2025 OpenFGL](https://github.com/xkLi-Allen/OpenFGL) ![GitHub Repo stars](https://img.shields.io/github/stars/xkLi-Allen/OpenFGL?style=social), and graph unlearning system project [NeurIPS 2025 OpenGU](https://github.com/bwfan-bit/OpenGU) ![GitHub Repo stars](https://img.shields.io/github/stars/bwfan-bit/OpenGU?style=social).
+As an active member of the research team, Xunkai is the organizer or the contributor of scalable graph learning system project [TKDE 2025 SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social), federated graph learning system project [VLDB 2025 OpenFGL](https://github.com/xkLi-Allen/OpenFGL) ![GitHub Repo stars](https://img.shields.io/github/stars/xkLi-Allen/OpenFGL?style=social), graph unlearning system project [NeurIPS 2025 OpenGU](https://github.com/bwfan-bit/OpenGU) ![GitHub Repo stars](https://img.shields.io/github/stars/bwfan-bit/OpenGU?style=social), directed graph learning system project [TKDE 2026 DcDGL](https://github.com/xkLi-Allen/Awesome-Directed-GNNs) ![GitHub Repo stars](https://img.shields.io/github/stars/xkLi-Allen/Awesome-Directed-GNNs?style=social), and multimodal graph learning system project [ICML 2026 OpenMAG](https://github.com/YUKI-N810/OpenMAG) ![GitHub Repo stars](https://img.shields.io/github/stars/YUKI-N810/OpenMAG?style=social).
+
+
 
 
 **Email**: cs.xunkai.li@gmail.com
@@ -28,36 +30,26 @@ As an active member of the research team, Xunkai is the organizer or the contrib
 
 🌟 🌟 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through e-mail or WeChat ：）
 
-My research interests center on **Data-centric Graph Intelligence**, including **Data-centric AI**, **Graph Machine Learning**, and **AI4Science**, with a focus on developing efficient ML solutions for structured data representation and mining. The goal of my work is to bridge the gap between theoretical advancements and practical applications in real-world industrial and scientific scenarios.
+My research interests center on **Data-centric Graph Intelligence**, including **Graph Database Theory and Machine Learning**, **Multimodal Understanding and Generation**, and **AI4Science**, with a focus on constructing and mining graph-structured data that contains deep relational and causal knowledge from emerging multimodal domains. The goal of my work is to bridge the gap between theoretical advancements and practical applications in real-world industrial and scientific scenarios.
 
-**Data-centric AI**: Currently, the development of AI faces numerous challenges and technical bottlenecks, which have driven a recent paradigm shift in research methodologies. 
-For instance, many leading Pre-trained Large Models (PLMs) still rely on the Transformer architecture. To break the upper bounds of its representational capacity, research focus is gradually shifting from model-centric approaches to data-centric paradigms. In this context, I pay particular attention to <font color=red>Data-centric PLM Optimization</font> and <font color=red>PLMs-enhanced Data Management</font>.
+**Graph Database Theory and Machine Learning**: In an era where everything is interconnected, graphs have become a fundamental tool for modeling complex relationships among entities, playing an important role in domains such as social networks (relationships), recommendation systems (preferences), molecular (atoms and chemical bonds), and protein (spatial geometric conformations). Theoretical studies on graph databases provide essential foundations for efficient relational data management. Building upon this foundation, graph machine learning, especially graph neural networks (GNNs), further enhances the ability to mine structured data through AI-driven techniques, offering more efficient solutions and promoting the development of related fields. In this context, I am particularly interested in <font color=red>Graph Management and ML in the era of LLM</font>.
 
-**Graph Machine Learning**: Graphs, as a universal representation of structured data, play a pivotal role in various domains such as social networks (relationships), recommendation systems (preferences), molecular (atoms and chemical bonds), and protein (spatial geometric conformations). Graph ML, particularly graph neural networks (GNNs), has overcome the limitations of traditional methods by leveraging AI-driven advancements in data mining, offering novel perspectives and more efficient solutions that have accelerated progress in these fields. In this context, I am particularly interested in <font color=red>Graph ML in the era of PLM</font>.
+**Multimodal Understanding and Generation**: In the multimodal attributed graphs we construct, nodes represent multimodal semantic entities, while edges capture their explicit or implicit contextual relationships. This new form of graph-structured data breaks the unnecessary isolation among entities in traditional multimodal learning and plays an important role in cross-modal retrieval and content generation. Based on this, multimodal GNNs leverage structured contexts to overcome communication barriers among entities, providing a new paradigm for cross-entity modal interaction and understanding. In this context, my research focuses on <font color=red>Structure-driven Multimodal Understanding and Generation</font>.
 
-
-**AI4Science**: The transformative potential of AI4Science lies in its capacity to revolutionize our understanding and transformation of the world, with profound implications across all aspects of human life. My goal is to advance the practical application of artificial intelligence in scientific domains, driving a new wave of innovation—particularly in <font color=red> Integrating Graph and PLM into Scientific Researches</font>.
-
-
-To date, I have published some papers in leading international conferences on ML, DB, DM, and AI, including ICML, NeurIPS, VLDB, ICDE, WWW, AAAI, and IJCAI. An overview of my research roadmap is as follows:
-
-  - Data Quantity: <font color=orange>Annotation</font> [[arXiv 2025 OGA](https://arxiv.org/abs/2505.13989)] [[arXiv 2025 HIAL](https://arxiv.org/abs/2507.20490)], <font color=orange>Synthesize</font> [[NeurIPS 2025 GraphMaster](https://arxiv.org/abs/2504.00711)], and <font color=orange>Scalability</font> [[WWW 2024 ATP](https://arxiv.org/abs/2402.06128)] [[VLDB 2024 LightDiC](https://arxiv.org/abs/2401.11772)] [[arXiv 2025 ScaDyG](https://arxiv.org/abs/2501.16002)], <font color=orange>Stream</font> (<font color=green>Open-world</font>).
-
-  - Data Quality: <font color=orange>Paradigm</font> (<font color=green>Directed, Signed, Hypergraph, Temporal, and </font> <font color=red>Multimodal Attributed Graph</font>) [[TKDE 2023 AHGAE](https://ieeexplore.ieee.org/document/9525190)] [[ICDE 2024 ADPA](https://arxiv.org/abs/2312.04111)] [[WWW 2025 MAP](https://arxiv.org/abs/2501.11817)] [[CIKM 2025 DiRW](https://arxiv.org/abs/2410.10320)] and <font color=orange>Augmentation</font> (<font color=green>Imbalance, Sparsity, Noise, and Out-Of-Distribution</font>) [[arXiv 2025 UltraTAG](https://arxiv.org/abs/2504.02343)] [[arXiv 2025 LLaTA](https://arxiv.org/abs/2503.21223)] [[arXiv 2025 LRW-OOD](https://arxiv.org/abs/2505.05785)].
-
-  - Data Efficiency: <font color=orange>Distillation</font> (<font color=green>Coarsening, Sparsification, Condensation, and Pruning</font>) [[VLDB 2025 GEC](https://www.vldb.org/pvldb/vol17/p4760-li.pdf)] [[ICML 2025 EDEN](https://arxiv.org/abs/2505.00983)], <font color=orange>Generalization</font> (<font color=green>Foundation Model</font>) [[arXiv 2025 MoT](https://xkli-allen.github.io/)].
-  
-  - Data Privacy: <font color=orange>Federated</font> [[VLDB 2023 FedGTA](https://arxiv.org/abs/2401.11755)] [[IJCAI 2024 FedTAD](http://arxiv.org/abs/2404.14061)] [[ICDE 2024 AdaFGL](https://arxiv.org/abs/2401.11750)] [[IJCAI 2025 FedGM](https://arxiv.org/abs/2505.02573)] [[VLDB 2025 OpenFGL](https://arxiv.org/abs/2408.16288)] [[CIKM 2025 FedC4](https://arxiv.org/abs/2504.14188)] [[NeurIPS 2025 FedGFM](https://arxiv.org/abs/2505.12684)] [[AAAI 2026 PAGE](https://arxiv.org/abs/2508.02485)] [[arXiv 2025 FedPG](https://arxiv.org/abs/2504.09493)] [[arXiv 2025 FairFGL](https://arxiv.org/abs/2504.09963)] [[arXiv 2025 FedSA-GCL](https://arxiv.org/abs/2507.18219)] [[arXiv 2025 FedGKC](https://arxiv.org/abs/2501.12624)] and <font color=orange>Unlearning</font> [[AAAI 2024 MEGU](https://arxiv.org/abs/2401.11760)] [[arXiv 2025 SGU](https://arxiv.org/abs/2501.11823)] [[NeurIPS 2025 OpenGU](https://arxiv.org/abs/2501.02728)]. 
-
-  - Data Management: <font color=orange>Collection</font>, <font color=orange>Clean</font>, and <font color=orange>Evaluation</font>.
-
-  - Data Application: <font color=orange>PLM Optimization</font> (<font color=green>Graph4RAG, Graph4Multimodal, and Graph4Agent</font>) and <font color=orange>AI4Science</font> (<font color=red>AI4Protein, AI4Drug, and AI4Cell</font>).
-
+**AI4Science**: The transformative potential of AI4Science lies in its capacity to revolutionize our understanding and transformation of the world, with profound implications across all aspects of human life. My goal is to advance the practical application of artificial intelligence in scientific domains, driving a new wave of innovation—particularly in <font color=red>Graph and Multimodal Intelligence for Drug, Protein, and Cell</font>.
 
 
 
 # 🔥 News
-
+* **2026-4**: seven paper is accepted by ***ICML 2026***.
+* **2026-4**: One paper is accepted by ***TKDE 2026***.
+* **2026-4**: One paper is accepted by ***TNNLS 2026***.
+* **2026-4**: One paper is accepted by ***ICMR 2026***.
+* **2026-4**: One paper is accepted by ***ACL 2026***.
+* **2026-4**: One paper is accepted by ***ICME 2026***.
+* **2026-1**: One paper is accepted by ***WWW 2026***.
+* **2026-1**: One paper is accepted by ***TKDE 2026***.
+* **2025-12**: One paper is accepted by ***TNNLS 2026***.
 * **2025-11**: One paper is accepted by ***AAAI 2026***.
 * **2025-09**: Three paper are accepted by ***NeurIPS 2025***.
 * **2025-08**: Two paper are accepted by ***CIKM 2025***.
@@ -83,7 +75,71 @@ To date, I have published some papers in leading international conferences on ML
 ## First/Co-first Author
 <!-- #### Conference and Journal Publications -->
 
-\# indicates equal contribution
+\# indicates equal contribution, @ indicates corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/oga.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [When LLMs Encounter Open-world Graph Learning: A Fresh View on Unlabeled Data Uncertainty](https://arxiv.org/abs/2505.13989), **[[Code](xxx)]**
+
+Yanzhe Wen\#, **Xunkai Li**\#, Qi Zhang, Lei Zhu, Guang Zeng, Zhihan Zhang, Rong-Hua Li, Guoren Wang
+
+- International Conference on Machine Learning (ICML), 2026, CCF-A.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/planet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [Toward Effective Multimodal Graph Foundation Model: A Divide-and-Conquer Based Approach](https://arxiv.org/abs/2602.04116), **[[Code](xxx)]**
+
+Sicheng Liu\#, **Xunkai Li**\#, Daohan Su, Ru Zhang, Hongchao Qin, Rong-Hua Li, Guoren Wang
+
+- International Conference on Machine Learning (ICML), 2026, CCF-A.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/hial.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [HIAL: Towards Semantics-Aware Hypergraph Active Learning via Dual-Perspective Information Maximization](https://arxiv.org/abs/2507.20490), **[[Code](xxx)]**
+
+Yanheng Hou\#, **Xunkai Li**\#, Yanzhe Wen, Zhenjun Li, Bing Zhou, Rong-Hua Li, Guoren Wang
+
+- International Conference on Machine Learning (ICML), 2026, CCF-A.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/openmag.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [OpenMAG: A Comprehensive Benchmark for Multimodal-Attributed Graph](https://arxiv.org/abs/2602.05576), **[[Code](xxx)]**
+
+Chenxi Wan\#, **Xunkai Li**\#, Yilong Zuo, Haokun Deng, Sihan Li, Bowen Fan, Hongchao Qin, Rong-Hua Li, Guoren Wang
+
+- International Conference on Machine Learning (ICML), 2026, CCF-A.
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/papers/page.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/TKDE 2026-orange'/> [Towards Data-centric Machine Learning on Directed Graphs: a Survey](https://arxiv.org/abs/2412.01849), **[[Code](xxx)]**
+
+Henan Sun\#, **Xunkai Li**\#, Daohan Su, Junyi Han, Rong-Hua Li, Guoren Wang
+
+- IEEE Transactions on Knowledge and Data Engineering (TKDE) 2026, CCF-A.
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/papers/page.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -240,9 +296,103 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 
 
 ## Co-author
+🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [MagicDock: Toward Docking-oriented De Novo Ligand Design via Gradient Inversion](https://arxiv.org/abs/2510.09020), **[[Code](xxx)]**
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/neurips_graphmaster.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+Zekai Chen, **Xunkai Li**, Sirui Zhang, Henan Sun, Jia Li, Zhenjun Li, Bing Zhou, Rong-Hua Li, Guoren Wang
+
+- International Conference on Machine Learning (ICML), 2026, CCF-A.
+
+</div>
+</div>
+
+🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://arxiv.org/abs/2601.16519), **[[Code](xxx)]**
+
+Zekai Chen, Haodong Lu, **Xunkai Li**, Henan Sun, Jia Li, Hongchao Qin, Rong-Hua Li, Guoren Wang
+
+
+- International Conference on Machine Learning (ICML), 2026, CCF-A.
+
+</div>
+</div>
+
+🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [Scalable Topology-Preserving Graph Coarsening with Graph Collapse](https://arxiv.org/html/2601.22943), **[[Code](xxx)]**
+
+Xiang Wu, Rong-Hua Li, **Xunkai Li**, Kangfei Zhao, Hongchao Qin, Guoren Wang
+
+- International Conference on Machine Learning (ICML), 2026, CCF-A.
+
+</div>
+</div>
+
+
+🎯<img src='https://img.shields.io/badge/TNNLS 2026-orange'/> [Towards Unbiased Federated Graph Learning: Label and Topology Perspectives](https://arxiv.org/abs/2504.09963), **[[Code](xxx)]**
+
+Zhengyu Wu, Boyang Pang, **Xunkai Li**, Yinlin Zhu, Daohan Su, Bowen Fan, Rong-Hua Li, Guoren Wang, Chenghu Zhou
+
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026, CCF-B.
+
+</div>
+</div>
+
+🎯<img src='https://img.shields.io/badge/ICMR 2026-orange'/> [Toward General and Robust LLM-enhanced Text-attributed Graph Learning](https://arxiv.org/abs/2504.02343), **[[Code](xxx)]**
+
+Zihao Zhang, **Xunkai Li**@, Rong-Hua Li, Bing Zhou, Zhenjun Li, Guoren Wang
+
+- International Conference on Multimedia Retrieval (ICMR), 2026, CCF-B.
+
+</div>
+</div>
+
+
+🎯<img src='https://img.shields.io/badge/ACL 2026-orange'/> [AlgBench: To What Extent Do Large Reasoning Models Understand Algorithms?](https://arxiv.org/abs/2601.04996), **[[Code](xxx)]**
+
+Henan Sun\#, Kaichi Yu\#, Yuyao Wang, Bowen Liu, **Xunkai Li**, Rong-Hua Li, Nuo Chen, Jia Li
+
+- The Association for Computational Linguistics (ACL), 2026, CCF-A.
+
+</div>
+</div>
+
+🎯<img src='https://img.shields.io/badge/ICME 2026-orange'/> [Toward Model-centric Heterogeneous Federated Graph Learning: A Knowledge-driven Approach](https://arxiv.org/html/2501.12624v2), **[[Code](xxx)]**
+
+Zhengyu Wu, Guang Zeng, Huilin Lai, Daohan Su, Jishuo Jia, Yinlin Zhu, **Xunkai Li**, Rong-Hua Li, Guoren Wang, Chenghu Zhou
+
+- International Conference on Multimedia and Expo (ICME), 2026, CCF-B.
+
+</div>
+</div>
+
+
+🎯<img src='https://img.shields.io/badge/WWW 2026-orange'/> [Unveiling the Vulnerability of Graph-LLMs: An Interpretable Multi-Dimensional Adversarial Attack on TAGs](https://arxiv.org/abs/2510.12233), **[[Code](xxx)]**
+
+Bowen Fan\#, Zhilin Guo\#, **Xunkai Li**, Yihan Zhou, Bing Zhou, Zhenjun Li, Rong-Hua Li, Guoren Wang
+
+- The Web Conference (WWW), 2026, CCF-A.
+
+</div>
+</div>
+
+
+🎯<img src='https://img.shields.io/badge/TKDE 2026-orange'/> [Effective Bug Detection in Graph Database Engines: An LLM-based Approach](https://ieeexplore.ieee.org/document/11359752), **[[Code](xxx)]**
+
+Jiayi Wu, Zhengyu Wu, **Xunkai Li**, Hongchao Qin, Ronghua Li, Guoren Wang
+
+- IEEE Transactions on Knowledge and Data Engineering (TKDE) 2026, CCF-A.
+
+</div>
+</div>
+
+
+🎯<img src='https://img.shields.io/badge/TNNLS 2026-orange'/> [ScaDyG: A New Paradigm for Large-scale Dynamic Graph Learning](https://arxiv.org/abs/2501.16002), **[[Code](xxx)]**
+
+Xiang Wu, **Xunkai Li**, Rong-Hua Li, Kangfei Zhao, Guoren Wang
+
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026, CCF-B.
+
+</div>
+</div>
+
+
 
 🎯<img src='https://img.shields.io/badge/NeurIPS 2025-orange'/> [GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](https://arxiv.org/abs/2504.00711), **[[Code](xxx)]**
 
@@ -254,9 +404,6 @@ Enjun Du, **Xunkai Li**, Tian Jin, Zhihan Zhang, Rong-Hua Li, Guoren Wang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/papers/neurips_opengu.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 🎯<img src='https://img.shields.io/badge/NeurIPS 2025-orange'/> [OpenGU: A Comprehensive Benchmark for Graph Unlearning](https://arxiv.org/abs/2501.02728), **[[Code](xxx)]**
 
 Bowen Fan, Yuming Ai, **Xunkai Li**, Zhilin Guo, Rong-Hua Li, Guoren Wang
@@ -267,10 +414,6 @@ Bowen Fan, Yuming Ai, **Xunkai Li**, Zhilin Guo, Rong-Hua Li, Guoren Wang
 </div>
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/papers/cikm_daohan.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 🎯<img src='https://img.shields.io/badge/CIKM 2025-orange'/> [DiRW: Path-Aware Digraph Learning for Heterophily](https://arxiv.org/abs/2410.10320), **[[Code](xxx)]**
 
 Daohan Su, **Xunkai Li**, Zhenjun Li, Yinping Liao, Rong-Hua Li, Guoren Wang
@@ -280,8 +423,6 @@ Daohan Su, **Xunkai Li**, Zhenjun Li, Yinping Liao, Rong-Hua Li, Guoren Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2025</div><img src='images/papers/cikm_zekai.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/CIKM 2025-orange'/> [FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning](https://arxiv.org/abs/2504.14188), **[[Code](xxx)]**
 
@@ -293,9 +434,6 @@ Zekai Chen, **Xunkai Li**, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2025</div><img src='images/papers/ijcai_zhanghao.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 🎯<img src='https://img.shields.io/badge/IJCAI 2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573), **[[Code](https://github.com/xkLi-Allen/FedGM)]**
 
 Hao Zhang, **Xunkai Li**, Yinlin Zhu, Lianglin Hu
@@ -305,8 +443,6 @@ Hao Zhang, **Xunkai Li**, Yinlin Zhu, Lianglin Hu
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2025</div><img src='images/papers/sgl_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/TKDE 2025-orange'/> [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)
 
@@ -317,8 +453,6 @@ Lu Ma, Zeang Sheng, **Xunkai Li**, Xinyi Gao, Zhezheng Hao, Ling Yang, Wentao Zh
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">VLDB 2025</div><img src='images/papers/gec.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/VLDB 2025-orange'/> [Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://www.vldb.org/pvldb/vol17/p4760-li.pdf), **[[Code](https://github.com/Shiina-Mashiro-M/GEC)]**
 
@@ -329,8 +463,6 @@ Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Guoren Wang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2024</div><img src='images/papers/fedtad.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/IJCAI 2024-orange'/> [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](http://arxiv.org/abs/2404.14061), **[[Code](https://github.com/xkLi-Allen/FedTAD)]**
 
@@ -341,8 +473,6 @@ Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2023</div><img src='images/papers/ahgae.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/TKDE 2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://ieeexplore.ieee.org/document/9525190) **[[code](XXX)]**
 
