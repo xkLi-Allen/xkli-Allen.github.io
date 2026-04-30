@@ -32,7 +32,7 @@ As an active member of the research team, Xunkai is the organizer or the contrib
 
 My research interests center on **Data-centric Graph Intelligence**, including **Graph Database Theory and Machine Learning**, **Multimodal Understanding and Generation**, and **AI4Science**, with a focus on constructing and mining graph-structured data that contains deep relational and causal knowledge from emerging multimodal domains. The goal of my work is to bridge the gap between theoretical advancements and practical applications in real-world industrial and scientific scenarios.
 
-**Graph Database Theory and Machine Learning**: In an era where everything is interconnected, graphs have become a fundamental tool for modeling complex relationships among entities, playing an important role in domains such as social networks (relationships), recommendation systems (preferences), molecular (atoms and chemical bonds), and protein (spatial geometric conformations). Theoretical studies on graph databases provide essential foundations for efficient relational data management. Building upon this foundation, graph machine learning, especially graph neural networks (GNNs), further enhances the ability to mine structured data through AI-driven techniques, offering more efficient solutions and promoting the development of related fields. In this context, I am particularly interested in <font color=red>Graph Management and ML in the era of LLM</font>.
+**Graph Database Theory and Machine Learning**: In an era where everything is interconnected, graphs have become a fundamental tool for modeling complex relationships among entities, playing an important role in domains such as social networks (relationships), recommendation systems (preferences), and molecular (atoms and chemical bonds). Theoretical studies on graph databases provide essential foundations for efficient relational data management. Building upon this foundation, graph machine learning, especially graph neural networks (GNNs), further enhances the ability to mine structured data through AI-driven techniques, offering more efficient solutions and promoting the development of related fields. In this context, I am particularly interested in <font color=red>Graph Management and ML in the era of LLM</font>.
 
 **Multimodal Understanding and Generation**: In the multimodal attributed graphs we construct, nodes represent multimodal semantic entities, while edges capture their explicit or implicit contextual relationships. This new form of graph-structured data breaks the unnecessary isolation among entities in traditional multimodal learning and plays an important role in cross-modal retrieval and content generation. Based on this, multimodal GNNs leverage structured contexts to overcome communication barriers among entities, providing a new paradigm for cross-entity modal interaction and understanding. In this context, my research focuses on <font color=red>Structure-driven Multimodal Understanding and Generation</font>.
 
@@ -302,8 +302,6 @@ Zekai Chen, **Xunkai Li**, Sirui Zhang, Henan Sun, Jia Li, Zhenjun Li, Bing Zhou
 
 - International Conference on Machine Learning (ICML), 2026, CCF-A.
 
-</div>
-</div>
 
 🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://arxiv.org/abs/2601.16519), **[[Code](xxx)]**
 
@@ -312,17 +310,12 @@ Zekai Chen, Haodong Lu, **Xunkai Li**, Henan Sun, Jia Li, Hongchao Qin, Rong-Hua
 
 - International Conference on Machine Learning (ICML), 2026, CCF-A.
 
-</div>
-</div>
 
 🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [Scalable Topology-Preserving Graph Coarsening with Graph Collapse](https://arxiv.org/html/2601.22943), **[[Code](xxx)]**
 
 Xiang Wu, Rong-Hua Li, **Xunkai Li**, Kangfei Zhao, Hongchao Qin, Guoren Wang
 
 - International Conference on Machine Learning (ICML), 2026, CCF-A.
-
-</div>
-</div>
 
 
 🎯<img src='https://img.shields.io/badge/TNNLS 2026-orange'/> [Towards Unbiased Federated Graph Learning: Label and Topology Perspectives](https://arxiv.org/abs/2504.09963), **[[Code](xxx)]**
@@ -331,17 +324,12 @@ Zhengyu Wu, Boyang Pang, **Xunkai Li**, Yinlin Zhu, Daohan Su, Bowen Fan, Rong-H
 
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026, CCF-B.
 
-</div>
-</div>
 
 🎯<img src='https://img.shields.io/badge/ICMR 2026-orange'/> [Toward General and Robust LLM-enhanced Text-attributed Graph Learning](https://arxiv.org/abs/2504.02343), **[[Code](xxx)]**
 
 Zihao Zhang, **Xunkai Li**@, Rong-Hua Li, Bing Zhou, Zhenjun Li, Guoren Wang
 
 - International Conference on Multimedia Retrieval (ICMR), 2026, CCF-B.
-
-</div>
-</div>
 
 
 🎯<img src='https://img.shields.io/badge/ACL 2026-orange'/> [AlgBench: To What Extent Do Large Reasoning Models Understand Algorithms?](https://arxiv.org/abs/2601.04996), **[[Code](xxx)]**
@@ -350,8 +338,6 @@ Henan Sun\#, Kaichi Yu\#, Yuyao Wang, Bowen Liu, **Xunkai Li**, Rong-Hua Li, Nuo
 
 - The Association for Computational Linguistics (ACL), 2026, CCF-A.
 
-</div>
-</div>
 
 🎯<img src='https://img.shields.io/badge/ICME 2026-orange'/> [Toward Model-centric Heterogeneous Federated Graph Learning: A Knowledge-driven Approach](https://arxiv.org/html/2501.12624v2), **[[Code](xxx)]**
 
@@ -359,18 +345,11 @@ Zhengyu Wu, Guang Zeng, Huilin Lai, Daohan Su, Jishuo Jia, Yinlin Zhu, **Xunkai 
 
 - International Conference on Multimedia and Expo (ICME), 2026, CCF-B.
 
-</div>
-</div>
-
-
 🎯<img src='https://img.shields.io/badge/WWW 2026-orange'/> [Unveiling the Vulnerability of Graph-LLMs: An Interpretable Multi-Dimensional Adversarial Attack on TAGs](https://arxiv.org/abs/2510.12233), **[[Code](xxx)]**
 
 Bowen Fan\#, Zhilin Guo\#, **Xunkai Li**, Yihan Zhou, Bing Zhou, Zhenjun Li, Rong-Hua Li, Guoren Wang
 
 - The Web Conference (WWW), 2026, CCF-A.
-
-</div>
-</div>
 
 
 🎯<img src='https://img.shields.io/badge/TKDE 2026-orange'/> [Effective Bug Detection in Graph Database Engines: An LLM-based Approach](https://ieeexplore.ieee.org/document/11359752), **[[Code](xxx)]**
@@ -379,19 +358,11 @@ Jiayi Wu, Zhengyu Wu, **Xunkai Li**, Hongchao Qin, Ronghua Li, Guoren Wang
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2026, CCF-A.
 
-</div>
-</div>
-
-
 🎯<img src='https://img.shields.io/badge/TNNLS 2026-orange'/> [ScaDyG: A New Paradigm for Large-scale Dynamic Graph Learning](https://arxiv.org/abs/2501.16002), **[[Code](xxx)]**
 
 Xiang Wu, **Xunkai Li**, Rong-Hua Li, Kangfei Zhao, Guoren Wang
 
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2026, CCF-B.
-
-</div>
-</div>
-
 
 
 🎯<img src='https://img.shields.io/badge/NeurIPS 2025-orange'/> [GraphMaster: Automated Graph Synthesis via LLM Agents in Data-Limited Environments](https://arxiv.org/abs/2504.00711), **[[Code](xxx)]**
@@ -400,19 +371,11 @@ Enjun Du, **Xunkai Li**, Tian Jin, Zhihan Zhang, Rong-Hua Li, Guoren Wang
 
 - Neural Information Processing Systems (NeurIPS), 2025, CCF-A.
 
-</div>
-</div>
-
-
 🎯<img src='https://img.shields.io/badge/NeurIPS 2025-orange'/> [OpenGU: A Comprehensive Benchmark for Graph Unlearning](https://arxiv.org/abs/2501.02728), **[[Code](xxx)]**
 
 Bowen Fan, Yuming Ai, **Xunkai Li**, Zhilin Guo, Rong-Hua Li, Guoren Wang
 
 - Neural Information Processing Systems (NeurIPS), 2025, CCF-A.
-
-</div>
-</div>
-
 
 🎯<img src='https://img.shields.io/badge/CIKM 2025-orange'/> [DiRW: Path-Aware Digraph Learning for Heterophily](https://arxiv.org/abs/2410.10320), **[[Code](xxx)]**
 
@@ -420,19 +383,11 @@ Daohan Su, **Xunkai Li**, Zhenjun Li, Yinping Liao, Rong-Hua Li, Guoren Wang
 
 - Conference on Information and Knowledge Management (CIKM), 2025, CCF-B.
 
-</div>
-</div>
-
-
 🎯<img src='https://img.shields.io/badge/CIKM 2025-orange'/> [FedC4: Graph Condensation Meets Client-Client Collaboration for Efficient and Private Federated Graph Learning](https://arxiv.org/abs/2504.14188), **[[Code](xxx)]**
 
 Zekai Chen, **Xunkai Li**, Yinlin Zhu, Rong-Hua Li, Guoren Wang
 
 - Conference on Information and Knowledge Management (CIKM), 2025, CCF-B.
-
-</div>
-</div>
-
 
 🎯<img src='https://img.shields.io/badge/IJCAI 2025-orange'/> [Rethinking Federated Graph Learning: A Data Condensation Perspective](https://arxiv.org/abs/2505.02573), **[[Code](https://github.com/xkLi-Allen/FedGM)]**
 
@@ -440,19 +395,11 @@ Hao Zhang, **Xunkai Li**, Yinlin Zhu, Lianglin Hu
 
 - International Joint Conference on Artificial Intelligence (IJCAI), 2025, CCF-A.
 
-</div>
-</div>
-
-
 🎯<img src='https://img.shields.io/badge/TKDE 2025-orange'/> [Acceleration Algorithms in GNNs: A Survey](https://arxiv.org/abs/2405.04114)
 
 Lu Ma, Zeang Sheng, **Xunkai Li**, Xinyi Gao, Zhezheng Hao, Ling Yang, Wentao Zhang, Bin Cui
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2025, CCF-A.
-
-</div>
-</div>
-
 
 🎯<img src='https://img.shields.io/badge/VLDB 2025-orange'/> [Topology-preserving Graph Coarsening: An Elementary Collapse-based Approach](https://www.vldb.org/pvldb/vol17/p4760-li.pdf), **[[Code](https://github.com/Shiina-Mashiro-M/GEC)]**
 
@@ -460,19 +407,11 @@ Yuchen Meng, Rong-Hua Li, Longlong Lin, **Xunkai Li**, Guoren Wang
 
 - International Conference on Very Large Data Bases (VLDB), 2025, CCF-A.
 
-</div>
-</div>
-
-
 🎯<img src='https://img.shields.io/badge/IJCAI 2024-orange'/> [FedTAD: Topology-aware Data-free Knowledge Distillation for Subgraph Federated Learning](http://arxiv.org/abs/2404.14061), **[[Code](https://github.com/xkLi-Allen/FedTAD)]**
 
 Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
 
 - International Joint Conference on Artificial Intelligence (IJCAI), 2024, CCF-A.
-
-</div>
-</div>
-
 
 🎯<img src='https://img.shields.io/badge/TKDE 2023-orange'/> [Adaptive Hypergraph Auto-Encoder for Relational Data Clustering](https://ieeexplore.ieee.org/document/9525190) **[[code](XXX)]**
 
@@ -480,8 +419,6 @@ Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Ji
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
 
-</div>
-</div>
 
 
 🎯<img src='https://img.shields.io/badge/NN 2025-orange'/> [FedPPD: Towards Effective Subgraph Federated Learning via Pseudo Prototype Distillation](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004204)
@@ -546,6 +483,10 @@ Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
   
 
 # 💻 Internships
+- Research Intern
+  - Company/Institution: Ant Group, Alibaba, Beijing.
+  - Advisor: Researcher Ningtao Wang
+  - Employment period: From 04/2026 to the present
 - Research Intern
   - Company/Institution: The Hong Kong University of Science and Technology, Guangzhou.
   - Advisor: Prof. Jia Li
