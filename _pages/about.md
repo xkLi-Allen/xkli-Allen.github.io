@@ -128,7 +128,7 @@ Chenxi Wan\#, **Xunkai Li**\#, Yilong Zuo, Haokun Deng, Sihan Li, Bowen Fan, Hon
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/papers/page.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TKDE 2026</div><img src='images/papers/dcdgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 🎯<img src='https://img.shields.io/badge/TKDE 2026-orange'/> [Towards Data-centric Machine Learning on Directed Graphs: a Survey](https://arxiv.org/abs/2412.01849), **[[Code](xxx)]**
