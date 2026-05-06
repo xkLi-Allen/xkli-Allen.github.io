@@ -20,6 +20,7 @@ redirect_from:
 Currently, Xunkai Li is a fourth year Ph.D. student of [School of Computer Science](https://cs.bit.edu.cn) in [Beijing Institute of Technology](https://bit.edu.cn) supervised by Prof. [Rong-Hua Li](https://ronghuali.github.io/ronghuali.html). 
 Prior to that, he received his B.Eng. degree in computer science department from [Shandong University](http://www.sdu.edu.cn) in June 2022. 
 As an active member of the research team, Xunkai is the organizer or the contributor of scalable graph learning system project [TKDE 2025 SGL](https://github.com/PKU-DAIR/SGL) ![GitHub Repo stars](https://img.shields.io/github/stars/PKU-DAIR/SGL?style=social), federated graph learning system project [VLDB 2025 OpenFGL](https://github.com/xkLi-Allen/OpenFGL) ![GitHub Repo stars](https://img.shields.io/github/stars/xkLi-Allen/OpenFGL?style=social), graph unlearning system project [NeurIPS 2025 OpenGU](https://github.com/bwfan-bit/OpenGU) ![GitHub Repo stars](https://img.shields.io/github/stars/bwfan-bit/OpenGU?style=social), directed graph learning system project [TKDE 2026 DcDGL](https://github.com/xkLi-Allen/Awesome-Directed-GNNs) ![GitHub Repo stars](https://img.shields.io/github/stars/xkLi-Allen/Awesome-Directed-GNNs?style=social), and multimodal graph learning system project [ICML 2026 OpenMAG](https://github.com/YUKI-N810/OpenMAG) ![GitHub Repo stars](https://img.shields.io/github/stars/YUKI-N810/OpenMAG?style=social).
+Meanwhile, he is the Principal Investigator of the <font color=blue>National Natural Science Foundation Youth Student Basic Research Project (2025)</font> and is selected for the <font color=blue>China Association for Science and Technology (CAST) Young Talent Support Program (2025)</font>.
 
 
 
@@ -305,7 +306,7 @@ Zekai Chen, **Xunkai Li**, Sirui Zhang, Henan Sun, Jia Li, Zhenjun Li, Bing Zhou
 
 🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [DANCE: Dynamic, Available, Neighbor-gated Condensation for Federated Text-Attributed Graphs](https://arxiv.org/abs/2601.16519), **[[Code](xxx)]**
 
-Zekai Chen, Haodong Lu, **Xunkai Li**, Henan Sun, Jia Li, Hongchao Qin, Rong-Hua Li, Guoren Wang
+Zekai Chen\#, Haodong Lu\#, **Xunkai Li**, Henan Sun, Jia Li, Hongchao Qin, Rong-Hua Li, Guoren Wang
 
 
 - International Conference on Machine Learning (ICML), 2026, CCF-A.
