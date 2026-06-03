@@ -35,6 +35,8 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 
 **Graph Database Theory and Machine Learning**: In an era where everything is interconnected, graphs have become a fundamental tool for modeling complex relationships among entities, playing an important role in domains such as social networks (relationships), recommendation systems (preferences), and molecular (atoms and chemical bonds). Theoretical studies on graph databases provide essential foundations for efficient relational data management. Building upon this foundation, graph machine learning, especially graph neural networks (GNNs), further enhances the ability to mine structured data through AI-driven techniques, offering more efficient solutions and promoting the development of related fields. In this context, I am particularly interested in <font color=red>Graph Management and ML in the era of LLM</font>.
 
+**Multi-Agent Systems**: This key technology has emerged as a vital paradigm for eliciting the collective intelligence of large models, demonstrating remarkable efficacy in areas such as complex reasoning, automated code generation, and embodied decision-making. Existing research in this domain strives to establish a foundational framework for efficient agent collaboration, experience reuse, and autonomous system evolution. Building upon these advancements, graphs—with their inherent capacity to model and represent intricate relationships—offer highly effective solutions for optimizing multi-agent communication, memory management, and iterative skill acquisition. Currently, my research primarily focuses on <font color=red>Graph-driven Multi-Agent Systems</font>.
+
 **Multimodal Understanding and Generation**: In the multimodal attributed graphs we construct, nodes represent multimodal semantic entities, while edges capture their explicit or implicit contextual relationships. This new form of graph-structured data breaks the unnecessary isolation among entities in traditional multimodal learning and plays an important role in cross-modal retrieval and content generation. Based on this, multimodal GNNs leverage structured contexts to overcome communication barriers among entities, providing a new paradigm for cross-entity modal interaction and understanding. In this context, my research focuses on <font color=red>Structure-driven Multimodal Understanding and Generation</font>.
 
 **AI4Science**: The transformative potential of AI4Science lies in its capacity to revolutionize our understanding and transformation of the world, with profound implications across all aspects of human life. My goal is to advance the practical application of artificial intelligence in scientific domains, driving a new wave of innovation—particularly in <font color=red>Graph and Multimodal Intelligence for Drug, Protein, and Cell</font>.
@@ -42,7 +44,7 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 
 
 # 🔥 News
-* **2026-4**: seven paper is accepted by ***ICML 2026***.
+* **2026-4**: seven paper are accepted by ***ICML 2026***.
 * **2026-4**: One paper is accepted by ***TKDE 2026***.
 * **2026-4**: One paper is accepted by ***TNNLS 2026***.
 * **2026-4**: One paper is accepted by ***ICMR 2026***.
@@ -420,6 +422,12 @@ Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Ji
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
 
+
+🎯<img src='https://img.shields.io/badge/ESWA 2025-orange'/> [FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting](xxxx)
+
+Zhongzheng Yuan, Lianshuai Guo, **Xunkai Li**, Yinlin Zhu, Wenyu Wang, Meixia Qu
+
+- Expert Systems With Applications (ESWA) 2026, CCF-B.
 
 
 🎯<img src='https://img.shields.io/badge/NN 2025-orange'/> [FedPPD: Towards Effective Subgraph Federated Learning via Pseudo Prototype Distillation](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004204)
