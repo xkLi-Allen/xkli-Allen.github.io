@@ -422,6 +422,12 @@ Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Ji
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
 
+🎯<img src='https://img.shields.io/badge/ESWA 2026-orange'/> [FedASU: Attention-guided sensitivity unlearning framework for multi-scenario federated graph unlearning](https://www.sciencedirect.com/science/article/pii/S0957417426011310)
+
+Jiaqi Chao, **Xunkai Li**, Yuming Ai, Meixia Qu
+
+- Expert Systems with Applications (ESWA) 2026, CCF-B.
+
 🎯<img src='https://img.shields.io/badge/KBS 2026-orange'/> [Towards Effective Few-Shot OOD Detection for Text-Attributed Graphs via Topology-Text Consensus Modeling](https://www.sciencedirect.com/science/article/pii/S0950705126004260)
 
 Xu Wang, Yinlin Zhu, **Xunkai Li**, Meixia Qu, Wenyu Wang
