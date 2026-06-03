@@ -422,12 +422,17 @@ Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Ji
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
 
+🎯<img src='https://img.shields.io/badge/KBS 2026-orange'/> [Towards Effective Few-Shot OOD Detection for Text-Attributed Graphs via Topology-Text Consensus Modeling](https://www.sciencedirect.com/science/article/pii/S0950705126004260)
 
-🎯<img src='https://img.shields.io/badge/ESWA 2025-orange'/> [FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting](xxxx)
+Xu Wang, Yinlin Zhu, **Xunkai Li**, Meixia Qu, Wenyu Wang
+
+- Knowledge-Based Systems (KBS) 2026, CCF-B.
+
+🎯<img src='https://img.shields.io/badge/KBS 2026-orange'/> [FedSA-GCL: A Semi-Asynchronous Federated Graph Learning Framework with Personalized Aggregation and Cluster-Aware Broadcasting](xxxx)
 
 Zhongzheng Yuan, Lianshuai Guo, **Xunkai Li**, Yinlin Zhu, Wenyu Wang, Meixia Qu
 
-- Expert Systems With Applications (ESWA) 2026, CCF-B.
+- Knowledge-Based Systems (KBS) 2026, CCF-B.
 
 
 🎯<img src='https://img.shields.io/badge/NN 2025-orange'/> [FedPPD: Towards Effective Subgraph Federated Learning via Pseudo Prototype Distillation](https://www.sciencedirect.com/science/article/abs/pii/S0893608025004204)
@@ -446,7 +451,7 @@ Haotong Wei, Yinlin Zhu, **Xunkai Li**, Bin Jiang
 
 Xin Xiong, **Xunkai Li**, Youpeng Hu, Yixuan Wu, Jian Yin
 
-- Knowledge and Information Systems (IS) 2022, CCF-B.
+- Information Systems (IS) 2022, CCF-B.
 
 
 🎯<img src='https://img.shields.io/badge/KAIS 2022-orange'/> [Graph Relation Embedding Network for Click-through Rate Prediction](https://link.springer.com/article/10.1007/s10115-022-01714-4)
