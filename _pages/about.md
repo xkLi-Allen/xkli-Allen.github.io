@@ -44,6 +44,7 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 
 
 # 🔥 News
+* **2026-7**: three paper are accepted by ***MM 2026***.
 * **2026-4**: seven paper are accepted by ***ICML 2026***.
 * **2026-4**: One paper is accepted by ***TKDE 2026***.
 * **2026-4**: One paper is accepted by ***TNNLS 2026***.
@@ -79,6 +80,18 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 <!-- #### Conference and Journal Publications -->
 
 \# indicates equal contribution, @ indicates corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026</div><img src='images/papers/mmopenfgl.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/MM 2026-orange'/> [MM-OpenFGL: A Comprehensive Benchmark for Multimodal Federated Graph Learning](https://arxiv.org/abs/2601.22416), **[[Code](xxx)]**
+
+**Xunkai Li**, Yuming Ai, Yinlin Zhu, Haodong Lu, Yi Zhang, Guohao Fu, Bowen Fan, Rong-Hua Li, Guoren Wang
+
+- ACM International Conference on Multimedia (MM), 2026, CCF-A.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/papers/oga.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -299,6 +312,20 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 
 
 ## Co-author
+
+
+🎯<img src='https://img.shields.io/badge/MM 2026-orange'/> [TMTE: Effective Multimodal Graph Learning with Task-aware Modality and Topology Co-evolution](https://arxiv.org/abs/2603.27723), **[[Code](xxx)]**
+
+Yinlin Zhu, **Xunkai Li**, Di Wu, Wang Luo, Miao Hu, Di Wu
+
+- ACM International Conference on Multimedia (MM), 2026, CCF-A.
+
+🎯<img src='https://img.shields.io/badge/MM 2026-orange'/> [RoleMAG: Learning Neighbor Roles in Multimodal Graphs](https://arxiv.org/abs/2604.12271), **[[Code](xxx)]**
+
+Yilong Zuo, **Xunkai Li**, Zhihan Zhang, Ronghua Li, Guoren Wang
+
+- ACM International Conference on Multimedia (MM), 2026, CCF-A.
+
 🎯<img src='https://img.shields.io/badge/ICML 2026-orange'/> [MagicDock: Toward Docking-oriented De Novo Ligand Design via Gradient Inversion](https://arxiv.org/abs/2510.09020), **[[Code](xxx)]**
 
 Zekai Chen, **Xunkai Li**, Sirui Zhang, Henan Sun, Jia Li, Zhenjun Li, Bing Zhou, Rong-Hua Li, Guoren Wang
@@ -421,6 +448,12 @@ Yinlin Zhu, **Xunkai Li**, Zhengyu Wu, Di Wu, Miao Hu, Rong-Hua Li
 Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Jian Yin, Yue Gao
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
+
+🎯<img src='https://img.shields.io/badge/ESWA 2026-orange'/> [Generalized Category Discovery in Federated Graph Learning](xxx)
+
+Zhongzheng Yuan, Lianshuai Guo, **Xunkai Li**, Wenyu Wang, Meixia Qu
+
+- Expert Systems with Applications (ESWA) 2026, CCF-B.
 
 🎯<img src='https://img.shields.io/badge/ESWA 2026-orange'/> [FedASU: Attention-guided sensitivity unlearning framework for multi-scenario federated graph unlearning](https://www.sciencedirect.com/science/article/pii/S0957417426011310)
 
