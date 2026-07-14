@@ -107,3 +107,43 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+/* 仅作用于 about.md 中的 News 区域 */
+.news-scroll {
+  max-height: 18rem;       // 面板高度；可改成 15rem、20rem 等
+  overflow-y: auto;        // 鼠标移入后可用滚轮滚动
+  padding: 0.2rem 0.8rem 0.2rem 0.2rem;
+  border-top: 1px solid #e5e7eb;
+  border-bottom: 1px solid #e5e7eb;
+  scrollbar-width: thin;   // Firefox 滚动条
+  scrollbar-color: #9ca3af transparent;
+  -webkit-overflow-scrolling: touch; // 手机端可手指滑动
+
+  ul {
+    margin: 0.6rem 0;
+    padding-left: 1.5rem;
+  }
+
+  li {
+    margin-bottom: 0.55rem;
+    padding-right: 0.2rem;
+  }
+
+  &:focus {
+    outline: 2px solid #00369f;
+    outline-offset: 3px;
+  }
+
+  &::-webkit-scrollbar {
+    width: 7px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background: #9ca3af;
+    border-radius: 999px;
+  }
+
+  &::-webkit-scrollbar-thumb:hover {
+    background: #6b7280;
+  }
+}

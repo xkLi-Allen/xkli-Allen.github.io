@@ -43,7 +43,7 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 
 
 
-# 🔥 News
+<!-- # 🔥 News
 * **2026-7**: three paper are accepted by ***MM 2026***.
 * **2026-4**: seven paper are accepted by ***ICML 2026***.
 * **2026-4**: One paper is accepted by ***TKDE 2026***.
@@ -69,7 +69,41 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 * **2024-01**: One paper is accepted by ***WWW 2024***.
 * **2023-12**: One paper is accepted by ***AAAI 2024***.
 * **2023-10**: One paper is accepted by ***ICDE 2024***.
+* **2023-08**: One paper is accepted by ***VLDB 2023***. -->
+
+<div class="news-scroll" tabindex="0" role="region" aria-label="News" markdown="1">
+
+* **2026-7**: three paper are accepted by ***MM 2026***.
+* **2026-4**: seven paper are accepted by ***ICML 2026***.
+* **2026-4**: One paper is accepted by ***TKDE 2026***.
+
+<!-- 其余 News 条目原样保留在这里 -->
+
+* **2026-4**: One paper is accepted by ***TNNLS 2026***.
+* **2026-4**: One paper is accepted by ***ICMR 2026***.
+* **2026-4**: One paper is accepted by ***ACL 2026***.
+* **2026-4**: One paper is accepted by ***ICME 2026***.
+* **2026-1**: One paper is accepted by ***WWW 2026***.
+* **2026-1**: One paper is accepted by ***TKDE 2026***.
+* **2025-12**: One paper is accepted by ***TNNLS 2026***.
+* **2025-11**: One paper is accepted by ***AAAI 2026***.
+* **2025-09**: Three paper are accepted by ***NeurIPS 2025***.
+* **2025-08**: Two paper are accepted by ***CIKM 2025***.
+* **2025-05**: One paper is accepted by ***ICML 2025***.
+* **2025-04**: One paper is accepted by ***IJCAI 2025***.
+* **2025-01**: One paper is accepted by ***TKDE 2025***.
+* **2025-01**: One paper is accepted by ***WWW 2025***.
+* **2025-01**: One paper is accepted by ***VLDB 2025***.
+* **2024-08**: One paper is accepted by ***VLDB 2025***.
+* **2024-04**: One paper is accepted by ***IJCAI 2024***.
+* **2024-03**: One paper is accepted by ***ICDE 2024***.
+* **2024-02**: One paper is accepted by ***VLDB 2024***.
+* **2024-01**: One paper is accepted by ***WWW 2024***.
+* **2023-12**: One paper is accepted by ***AAAI 2024***.
+* **2023-10**: One paper is accepted by ***ICDE 2024***.
 * **2023-08**: One paper is accepted by ***VLDB 2023***.
+
+</div>
 
 
 
