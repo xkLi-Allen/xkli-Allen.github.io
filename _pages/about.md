@@ -71,6 +71,7 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 * **2023-10**: One paper is accepted by ***ICDE 2024***.
 * **2023-08**: One paper is accepted by ***VLDB 2023***. -->
 
+# 🔥 News
 <div class="news-scroll" tabindex="0" role="region" aria-label="News" markdown="1">
 
 * **2026-7**: three paper are accepted by ***MM 2026***.
