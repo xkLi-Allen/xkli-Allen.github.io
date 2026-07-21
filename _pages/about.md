@@ -578,7 +578,7 @@ Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 - Research Intern
   - Company/Institution: The Hong Kong University of Science and Technology, Guangzhou.
   - Advisor: Prof. Jia Li
-  - Employment period: From 2/2025 to the present
+  - Employment period: From 02/2025 to the 08/2025
 - Research Intern
   - Company/Institution: Ant Group, Alibaba, Beijing.
   - Advisor: Researcher Guang Zeng
