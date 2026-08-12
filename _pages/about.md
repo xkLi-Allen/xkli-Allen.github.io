@@ -74,6 +74,8 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 # 🔥 News
 <div class="news-scroll" tabindex="0" role="region" aria-label="News" markdown="1">
 
+
+* **2026-8**: One paper is accepted by ***CIKM 2026***.
 * **2026-7**: three paper are accepted by ***MM 2026***.
 * **2026-4**: seven paper are accepted by ***ICML 2026***.
 * **2026-4**: One paper is accepted by ***TKDE 2026***.
@@ -348,6 +350,11 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 
 ## Co-author
 
+🎯<img src='https://img.shields.io/badge/CIKM 2026-orange'/> [Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering](https://arxiv.org/abs/2602.18249), **[[Code](xxx)]**
+
+Jiayi Wu, Zhengyu Wu, **Xunkai Li**, Rong-Hua Li and Guoren Wang
+
+- Conference on Information and Knowledge Management (CIKM), 2026, CCF-B.
 
 🎯<img src='https://img.shields.io/badge/MM 2026-orange'/> [TMTE: Effective Multimodal Graph Learning with Task-aware Modality and Topology Co-evolution](https://arxiv.org/abs/2603.27723), **[[Code](xxx)]**
 
