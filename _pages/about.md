@@ -43,38 +43,11 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 
 
 
-<!-- # 🔥 News
-* **2026-7**: three paper are accepted by ***MM 2026***.
-* **2026-4**: seven paper are accepted by ***ICML 2026***.
-* **2026-4**: One paper is accepted by ***TKDE 2026***.
-* **2026-4**: One paper is accepted by ***TNNLS 2026***.
-* **2026-4**: One paper is accepted by ***ICMR 2026***.
-* **2026-4**: One paper is accepted by ***ACL 2026***.
-* **2026-4**: One paper is accepted by ***ICME 2026***.
-* **2026-1**: One paper is accepted by ***WWW 2026***.
-* **2026-1**: One paper is accepted by ***TKDE 2026***.
-* **2025-12**: One paper is accepted by ***TNNLS 2026***.
-* **2025-11**: One paper is accepted by ***AAAI 2026***.
-* **2025-09**: Three paper are accepted by ***NeurIPS 2025***.
-* **2025-08**: Two paper are accepted by ***CIKM 2025***.
-* **2025-05**: One paper is accepted by ***ICML 2025***.
-* **2025-04**: One paper is accepted by ***IJCAI 2025***.
-* **2025-01**: One paper is accepted by ***TKDE 2025***.
-* **2025-01**: One paper is accepted by ***WWW 2025***.
-* **2025-01**: One paper is accepted by ***VLDB 2025***.
-* **2024-08**: One paper is accepted by ***VLDB 2025***.
-* **2024-04**: One paper is accepted by ***IJCAI 2024***.
-* **2024-03**: One paper is accepted by ***ICDE 2024***.
-* **2024-02**: One paper is accepted by ***VLDB 2024***.
-* **2024-01**: One paper is accepted by ***WWW 2024***.
-* **2023-12**: One paper is accepted by ***AAAI 2024***.
-* **2023-10**: One paper is accepted by ***ICDE 2024***.
-* **2023-08**: One paper is accepted by ***VLDB 2023***. -->
-
 # 🔥 News
 <div class="news-scroll" tabindex="0" role="region" aria-label="News" markdown="1">
 
 
+* **2026-8**: Two paper are accepted by ***ICDM 2026***.
 * **2026-8**: One paper is accepted by ***CIKM 2026***.
 * **2026-7**: three paper are accepted by ***MM 2026***.
 * **2026-4**: seven paper are accepted by ***ICML 2026***.
@@ -349,6 +322,18 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 
 
 ## Co-author
+
+🎯<img src='https://img.shields.io/badge/CIKM 2026-orange'/> [Toward Multimodal Graph Foundation Model：A Spectral Based Approach](xxx), **[[Code](xxx)]**
+
+Zhengyu Wu, Xu Wang, Hongchao Qin, **Xunkai Li**, Guang Zeng, Rong-Hua Li, and Guoren Wang
+
+- IEEE International Conference on Data Mining (ICDM), 2026, CCF-B.
+
+🎯<img src='https://img.shields.io/badge/CIKM 2026-orange'/> [CoMAG: Context-aware Modality-Topology Co-Alignment for Multimodal Attributed Graphs](https://arxiv.org/abs/2606.14172), **[[Code](xxx)]**
+
+Sirui Zhang, Xu Wang, Zhengyu Wu, **Xunkai Li**, and Hongchao Qin
+
+- IEEE International Conference on Data Mining (ICDM), 2026, CCF-B.
 
 🎯<img src='https://img.shields.io/badge/CIKM 2026-orange'/> [Dual-Tree LLM-Enhanced Negative Sampling for Implicit Collaborative Filtering](https://arxiv.org/abs/2602.18249), **[[Code](xxx)]**
 
