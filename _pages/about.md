@@ -323,13 +323,13 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 
 ## Co-author
 
-🎯<img src='https://img.shields.io/badge/CIKM 2026-orange'/> [Toward Multimodal Graph Foundation Model：A Spectral Based Approach](xxx), **[[Code](xxx)]**
+🎯<img src='https://img.shields.io/badge/ICDM 2026-orange'/> [Toward Multimodal Graph Foundation Model：A Spectral Based Approach](xxx), **[[Code](xxx)]**
 
 Zhengyu Wu, Xu Wang, Hongchao Qin, **Xunkai Li**, Guang Zeng, Rong-Hua Li, and Guoren Wang
 
 - IEEE International Conference on Data Mining (ICDM), 2026, CCF-B.
 
-🎯<img src='https://img.shields.io/badge/CIKM 2026-orange'/> [CoMAG: Context-aware Modality-Topology Co-Alignment for Multimodal Attributed Graphs](https://arxiv.org/abs/2606.14172), **[[Code](xxx)]**
+🎯<img src='https://img.shields.io/badge/ICDM 2026-orange'/> [CoMAG: Context-aware Modality-Topology Co-Alignment for Multimodal Attributed Graphs](https://arxiv.org/abs/2606.14172), **[[Code](xxx)]**
 
 Sirui Zhang, Xu Wang, Zhengyu Wu, **Xunkai Li**, and Hongchao Qin
 
