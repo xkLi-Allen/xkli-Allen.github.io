@@ -46,7 +46,8 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 # 🔥 News
 <div class="news-scroll" tabindex="0" role="region" aria-label="News" markdown="1">
 
-
+* **2026-9**: One paper is accepted by ***NeurIPS 2026***.
+* **2026-9**: One paper is accepted by ***JoS 2026***.
 * **2026-8**: Two paper are accepted by ***ICDM 2026***.
 * **2026-8**: One paper is accepted by ***CIKM 2026***.
 * **2026-7**: three paper are accepted by ***MM 2026***.
@@ -90,6 +91,18 @@ My research interests center on **Data-centric Graph Intelligence**, including *
 <!-- #### Conference and Journal Publications -->
 
 \# indicates equal contribution, @ indicates corresponding author
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JoS 2026</div><img src='images/papers/gfm_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+🎯<img src='https://img.shields.io/badge/JoS 2026-orange'/> [A Survey on Graph Foundation Models](xxxx), **[[Code](xxx)]**
+
+**Xunkai Li**, Daohan Su, Sihan Li, Rong-Hua Li, Guoren Wang
+
+- Journal of Software (JoS), 2026, CCF-T1.
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MM 2026</div><img src='images/papers/mmopenfgl.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -322,6 +335,11 @@ Henan Sun\#, **Xunkai Li**\#, Zhengyu Wu, Daohan Su, Rong-Hua Li, Guoren Wang
 
 
 ## Co-author
+🎯<img src='https://img.shields.io/badge/NeurIPS 2026-orange'/> [Natural-Language-Guided Protein Generation for Ligand-Binding Design](xxx), **[[Code](xxx)]**
+
+Shumeng Li, **Xunkai Li**, Sirui Zhang, Henan Sun, Xiong Yongfu, YI LIU, Rong-Hua Li, Guoren Wang
+
+- Neural Information Processing Systems (NeurIPS), 2026, CCF-A.
 
 🎯<img src='https://img.shields.io/badge/ICDM 2026-orange'/> [Toward Multimodal Graph Foundation Model：A Spectral Based Approach](xxx), **[[Code](xxx)]**
 
@@ -476,6 +494,14 @@ Youpeng Hu, **Xunkai Li**, Yujie Wang, Yixuan Wu, Yining Zhao, Chenggang Yan, Ji
 
 - IEEE Transactions on Knowledge and Data Engineering (TKDE) 2023, CCF-A.
 
+
+🎯<img src='https://img.shields.io/badge/KBS 2026-orange'/> [Towards Federated Long-Tailed Graph Learning: An Energy-Guided Dual Decoupling Approach](xxx)
+
+Lianshuai Guo, Zhongzheng Yuan, Xunkai Li, Meixia Qu, and Wenyu Wang,
+
+- Knowledge-Based Systems (KBS) 2026, CCF-B.
+
+
 🎯<img src='https://img.shields.io/badge/ESWA 2026-orange'/> [Generalized Category Discovery in Federated Graph Learning](xxx)
 
 Zhongzheng Yuan, Lianshuai Guo, **Xunkai Li**, Wenyu Wang, Meixia Qu
@@ -557,9 +583,9 @@ Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 # 🧑‍💻 Service
 
 - Conference Reviewers: 
-  - ICML, ICLR, NeurIPS, KDD, WWW, AISTATS, AAAI, IJCAI
+  - ICML, ICLR, NeurIPS, KDD, WWW, MM, AISTATS, AAAI, IJCAI
 - Journal Reviewers: 
-  - TKDE, TKDD, TNNLS, TBD
+  - TPAMI, TKDE, IoT, TKDD, TNNLS, TBD
   
 
 # 💻 Internships
