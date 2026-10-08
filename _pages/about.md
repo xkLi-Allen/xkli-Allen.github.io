@@ -583,9 +583,9 @@ Yixuan Wu, Youpeng Hu, Xin Xiong, **Xunkai Li**, Ronghui Guo, Shuiguang Deng
 # 🧑‍💻 Service
 
 - Conference Reviewers: 
-  - ICML, ICLR, NeurIPS, KDD, WWW, MM, AISTATS, AAAI, IJCAI
+  - ICML, ICLR, NeurIPS, KDD, WWW, MM, AISTATS, AAAI (SPC), IJCAI
 - Journal Reviewers: 
-  - TPAMI, TKDE, IoT, TKDD, TNNLS, TBD
+  - TPAMI, TKDE, IoT, TIFS, TKDD, TNNLS, TBD
   
 
 # 💻 Internships
